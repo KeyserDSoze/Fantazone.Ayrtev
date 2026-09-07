@@ -1,0 +1,4723 @@
+{
+  "year": 9,
+  "rounds": {
+    "0": [
+      {
+        "serieADay": 3,
+        "number": 1,
+        "games": [
+          {
+            "id": "71d3a0b7-8ef6-4480-8397-67509f9268c2",
+            "number": 1,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "8d8754fb-afd8-4715-953d-a1305d20ae86",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "aa85c58d-1c14-4ba5-9e38-b5fb62856875",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "7997a458-c154-44c1-aaa7-e0052c797eea",
+            "number": 4,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "e0a37d6f-e02f-437b-a604-c201ff4c2dea",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 4,
+        "number": 2,
+        "games": [
+          {
+            "id": "cdb21214-314e-4e5e-a04c-114cb343fe89",
+            "number": 1,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 74.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 82,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "eddc4205-d695-4ed7-967c-cd1f61821c15",
+            "number": 2,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 74.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "ff1af626-1f3d-4d02-a394-b55668345308",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 80,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "2c5013e2-f0ed-4285-821d-831e3a694d59",
+            "number": 4,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 77.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "af036ec6-d011-450c-ab83-8175b19b257a",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 80.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 5,
+        "number": 3,
+        "games": [
+          {
+            "id": "3e61d4f7-8a5e-4f66-9871-c3289cfb20cb",
+            "number": 1,
+            "home": "Partizan Degrado",
+            "homeOwner": "e.lisei@vetrya.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "3d77f6c2-814c-44d6-b1b2-41c463936fa1",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "A.C. Ofeca",
+            "awayOwner": "lorenzo.catarcia@gmail.com",
+            "result": {
+              "home": {
+                "value": 79,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 85.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 4
+            }
+          },
+          {
+            "id": "27e10013-f0af-4b72-9454-6265c47d405e",
+            "number": 3,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 76.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "63e8448a-0416-44b3-9a46-ab7492df65b7",
+            "number": 4,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 79,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "140eaafb-b7ec-418f-81d3-3e9780b74ee4",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 76,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 6,
+        "number": 4,
+        "games": [
+          {
+            "id": "c42ad2c2-71d2-4e6c-8b07-627e7544d570",
+            "number": 1,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "0ed88290-c639-4456-a4b8-1f8d181717ba",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Corchiadoli United",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "a165984d-c343-44ca-8cc6-eb1ee3d4032d",
+            "number": 3,
+            "home": "Più no kessie",
+            "homeOwner": "lucamar88",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 82,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 76.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "ddaaee14-9441-4b95-818d-337f1d4427e2",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 74.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "49b2ff84-0604-4ca1-adbd-484be76be0b8",
+            "number": 5,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 56,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 7,
+        "number": 5,
+        "games": [
+          {
+            "id": "a0413d64-437c-4b96-8d57-55062911bedb",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "d397bdce-7349-4834-a984-2dbe480c3045",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 60,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "51e55774-89a1-41dc-aeea-422965b908af",
+            "number": 3,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 61,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 80.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "4d368043-5905-4209-899a-d86f442628f7",
+            "number": 4,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "db17c6a9-4b05-40a1-b0b2-ef01a2f0a951",
+            "number": 5,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 8,
+        "number": 6,
+        "games": [
+          {
+            "id": "a17544fd-351a-420b-b318-ec21143e3e2b",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "2f53cc6b-c867-4359-810f-8bedec2939f2",
+            "number": 2,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 78.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "e158dff1-d26a-4d57-917c-54b2dc77cd91",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "e8a95e1f-96a4-4bee-bda2-1f5848d0fe5b",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 83.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 82,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "d220fd1b-b42e-4a97-9482-0fae790430b0",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 9,
+        "number": 7,
+        "games": [
+          {
+            "id": "23028ec1-0343-4c99-9dd1-1e16fc8ff039",
+            "number": 1,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "7239608e-c2c5-496e-a601-68ed8cda15eb",
+            "number": 2,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 59.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 71.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "ea5b10d4-8772-43f7-85e7-5972ed01bd91",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "e581f371-4277-4834-b55b-63a55140528b",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 81.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "56ea6cf0-cdaf-4e42-b800-4ccb6ba7f699",
+            "number": 5,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 10,
+        "number": 8,
+        "games": [
+          {
+            "id": "e7342063-7774-42b2-a991-d6e5572672d7",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 82.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "2709a309-d46c-4018-a49c-2c65677ac5cf",
+            "number": 2,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "87e744f5-c216-4a76-91d4-092d4dd407a1",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 59,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 78,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 4
+            }
+          },
+          {
+            "id": "3add9470-c6c1-4f1e-9f64-1d0189691cdb",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 77.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "9f98b6d1-69db-442b-acba-bcde995f8104",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 62,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 74.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 11,
+        "number": 9,
+        "games": [
+          {
+            "id": "10a642ca-5467-4d1b-a5ff-3471755cfc98",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 81.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 91.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 5
+            }
+          },
+          {
+            "id": "36e6410d-6a0d-483c-b42c-46c0fc3bb3fb",
+            "number": 2,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "e23ef7fa-7fc6-478c-8919-fb4c88e67ac4",
+            "number": 3,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 74.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 80.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "06fcfbb2-942d-44c2-834b-6958fc82012c",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Corchiadoli United",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "385d7086-a7f5-45c6-a68d-eeeb875863f3",
+            "number": 5,
+            "home": "Partizan Degrado",
+            "homeOwner": "e.lisei@vetrya.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 68.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 12,
+        "number": 10,
+        "games": [
+          {
+            "id": "456012c8-a11c-4422-b821-4be47292053d",
+            "number": 1,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 79.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "6f97a9dc-473c-4ba5-9edf-31cbd870323f",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 75,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "6b81c5e3-dd18-4d58-a2d8-50c0b35e91cc",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "b28591d7-9ee8-4726-9c7b-6be8e869f6a5",
+            "number": 4,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 56.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "a683332b-8de5-49bf-a635-53f05d190bd7",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 61,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 13,
+        "number": 11,
+        "games": [
+          {
+            "id": "75c5ee3c-4302-43bf-ae0c-083524d143a5",
+            "number": 1,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "0eaf9eee-c187-4fea-814b-85c1f911662e",
+            "number": 2,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 60.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "3fe82669-57a1-415e-8bab-450cd2ec626a",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 93,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 5
+            }
+          },
+          {
+            "id": "c4b91d10-e805-48d8-9b82-712c6381ed65",
+            "number": 4,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 79,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "c2b36674-9526-483a-b3f7-b34aaec255d5",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 14,
+        "number": 12,
+        "games": [
+          {
+            "id": "26234ec6-7884-46c8-80b8-1899e74ed088",
+            "number": 1,
+            "home": "Partizan Degrado",
+            "homeOwner": "e.lisei@vetrya.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "5c82f9e9-bc2d-41ed-a219-ece679d7d51b",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "A.C. Ofeca",
+            "awayOwner": "lorenzo.catarcia@gmail.com",
+            "result": {
+              "home": {
+                "value": 83.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "4c5bf032-0bcc-469f-bfa0-c7e8b811df87",
+            "number": 3,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 56.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "22e90559-81ba-45cc-8f28-d0a9335afdc6",
+            "number": 4,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "5b06bb3e-5dc6-426e-8d0f-74266f4292e2",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 65,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 86,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 4
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 15,
+        "number": 13,
+        "games": [
+          {
+            "id": "76c4947f-068d-4995-98d2-82d32003a215",
+            "number": 1,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 80,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "69af36a1-05b4-4930-ba73-e3014c320d27",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Corchiadoli United",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 83.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 61.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "15e9b5bd-559d-469f-b446-f51adc28990b",
+            "number": 3,
+            "home": "Più no kessie",
+            "homeOwner": "lucamar88",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 77.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 81,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "788d44a1-6ee5-4b5e-86fe-411b08466ce0",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 57.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "f0452d40-d872-4e94-91a3-094538bf3c6f",
+            "number": 5,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 78.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 16,
+        "number": 14,
+        "games": [
+          {
+            "id": "de2a9a22-9b7c-4f32-aab2-375aaad348cf",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "4a9d6008-645d-497f-9808-2e83284a3d62",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 78,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "2fd77605-1e27-4f16-acec-6a7ec32de7e1",
+            "number": 3,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "d401d6ea-ffc2-423c-8f3e-adde393526a3",
+            "number": 4,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 79.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "b6ce3efb-75f1-46c3-ab75-e3df1dd5f53b",
+            "number": 5,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 17,
+        "number": 15,
+        "games": [
+          {
+            "id": "82cc4bf3-5564-4a1b-8dd8-8bef85981691",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 95.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 5,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "55dd3e1d-5165-473f-b841-4bb806cd8278",
+            "number": 2,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "fde25238-3093-4de1-b331-e38c94d2a67b",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "b858af61-3a26-4acd-b659-aaa291803d35",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 63.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 82.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "60ef94af-ac52-46f7-a031-895b13a951d1",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 80,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 81.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 3
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 18,
+        "number": 16,
+        "games": [
+          {
+            "id": "51d86c8c-a5f7-4be7-b8fb-dd796da0a0a1",
+            "number": 1,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 80,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "8ee0b88c-9948-46d8-89f2-5d4af61a3375",
+            "number": 2,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 54,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 56.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "4463cd4e-cf5b-469d-aa40-cefe11cce1e4",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 55,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 67,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "bc555e26-0ed2-433e-8a46-c11e46b45377",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 78,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "25680085-2c3b-4516-ba82-e2a527881102",
+            "number": 5,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 86,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 78,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 3
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 19,
+        "number": 17,
+        "games": [
+          {
+            "id": "24837219-bfa3-461e-bc06-7971ee791f23",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "62a415ad-cb18-46d4-b84a-19de5f7c48fb",
+            "number": 2,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 74,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "4f88f38f-f131-4356-93f8-2cef87f517d0",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 52,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 76.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "cdb8d8d9-965e-46f5-9ba3-918c3a0da11c",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 76,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "9d92680b-d5cd-4e1d-bf20-81bc6583ae12",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 20,
+        "number": 18,
+        "games": [
+          {
+            "id": "ea933026-0c8f-4199-b8c4-87e0cf304128",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "0301b93c-ed77-42cc-8635-3d1ebe5ac203",
+            "number": 2,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 72,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "e011e0d5-66d5-4776-a922-57217eae3411",
+            "number": 3,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 69.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "9a845c3a-ca95-44b8-8d4a-019a6916b80d",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Corchiadoli United",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 78,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "bf870aad-3c3c-4cfd-8be6-135b9b5206f0",
+            "number": 5,
+            "home": "Partizan Degrado",
+            "homeOwner": "e.lisei@vetrya.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 78.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 78.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 3
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 21,
+        "number": 19,
+        "games": [
+          {
+            "id": "5147d2f7-089b-42ee-aa59-c5ed338e219c",
+            "number": 1,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 79.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "4fbc6a90-17f0-4441-835e-6701ba603bbb",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "4f4e577a-7213-4256-a765-82fd915e3471",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 65.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "6d1b4ee7-9b88-4dcd-b0b3-3450ccb5386d",
+            "number": 4,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 84.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "1134894b-73e6-4f50-a523-6f3ab5177bdc",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 76,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 22,
+        "number": 20,
+        "games": [
+          {
+            "id": "16b73ce7-2069-4ddb-bc86-8820764def0d",
+            "number": 1,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 69,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "62eaf3fc-eac6-47fa-8dc7-2e21165d5f45",
+            "number": 2,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "786ccfc2-0015-45df-bc47-a178338ac8ae",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "4639e2f0-cc28-441b-a0b7-5596ad1f3f61",
+            "number": 4,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 76.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "0b59736b-c431-4332-928d-93b14a54444b",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 23,
+        "number": 21,
+        "games": [
+          {
+            "id": "eb613d39-aea7-4d00-a488-16283c65c058",
+            "number": 1,
+            "home": "Partizan Degrado",
+            "homeOwner": "e.lisei@vetrya.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 80,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 75.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "7724cfbc-9f31-4dbf-9b45-86fb81f3db85",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "A.C. Ofeca",
+            "awayOwner": "lorenzo.catarcia@gmail.com",
+            "result": {
+              "home": {
+                "value": 76.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 77,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "1225c401-c482-4af9-af42-f95359bf61e6",
+            "number": 3,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "98568502-1db3-493b-a234-344975fea87c",
+            "number": 4,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "ecedb50c-1756-4892-a229-ad310e7ae9db",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 24,
+        "number": 22,
+        "games": [
+          {
+            "id": "3c3c8070-a3ab-4a5f-b3cb-f6a3a4a0cbdb",
+            "number": 1,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 75,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "d233e93a-abcf-4a42-b165-39e9218c21c7",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Corchiadoli United",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 59.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 62,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "f02e9077-76b3-4acb-913b-b257d56f35b9",
+            "number": 3,
+            "home": "Più no kessie",
+            "homeOwner": "lucamar88",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "b5dfe3af-c21a-4f4a-bfac-151a759865f4",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "7eb42aa5-bdbc-430c-8525-66fdb77042b7",
+            "number": 5,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 87,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 76.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 25,
+        "number": 23,
+        "games": [
+          {
+            "id": "ce0b9928-4c43-482c-8143-ff053f22e232",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 94,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 56,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 6,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "258bef05-11a8-485b-801a-c8aba63c5e33",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 81.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "c8d7f1b0-8ab1-42db-885e-015e3130ac95",
+            "number": 3,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "e60a5126-ca61-4b87-8786-1752ae8a4214",
+            "number": 4,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "1c0e059d-e991-4a6f-9232-50120787e525",
+            "number": 5,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 26,
+        "number": 24,
+        "games": [
+          {
+            "id": "4c86a186-1392-4c5e-bc01-65469eeec379",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 79.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "3411a4bf-804f-4e43-ac59-51631ec874a2",
+            "number": 2,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 85,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 4
+            }
+          },
+          {
+            "id": "69142e82-6cb0-4a08-bde2-b033e4f262ee",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "e680feda-6250-4521-8506-462eae6eba67",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "5d98bf4b-968a-474c-ae4c-b8b36e2c6e99",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 54.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 27,
+        "number": 25,
+        "games": [
+          {
+            "id": "2e0a4bd3-a32b-4ee8-ab46-b84a4c9ece10",
+            "number": 1,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 79,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "0d4ea0db-427f-4690-a329-f2efbe51282a",
+            "number": 2,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 79.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "7fce0e21-2d8f-4426-9a11-0d9657418a74",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 80.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "474f25be-271e-468b-a293-e6bbab287583",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 68,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "cdcb8ca2-b542-44ed-846e-58d82de9b113",
+            "number": 5,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 80,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 3
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 28,
+        "number": 26,
+        "games": [
+          {
+            "id": "79a0c6a2-c10c-40ba-8a23-3b4eea697efc",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "e4db37c6-8c0b-4ecb-84d9-3678b716fc26",
+            "number": 2,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 72,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "21020365-d386-4f34-a92f-ebb9e00184b3",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "aa6e46c0-5665-4150-ba2a-5a7960c79115",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 61,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "f61fba8f-6ae8-4fc6-835c-d2e56d7c2200",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 29,
+        "number": 27,
+        "games": [
+          {
+            "id": "4d030842-25ea-456f-ae8e-ae0254e921ac",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 79,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 61,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "519cbbe3-d8ee-40ab-9bef-31843d6c8719",
+            "number": 2,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "a0fa6c95-8e57-4e5a-b156-6e2688535422",
+            "number": 3,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 81,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "98fa74e3-95a7-444f-b44d-b5a5db1d6d9f",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Corchiadoli United",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 75.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "499cc30c-a0be-4803-a111-a8182fb2c087",
+            "number": 5,
+            "home": "Partizan Degrado",
+            "homeOwner": "e.lisei@vetrya.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 66,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 30,
+        "number": 28,
+        "games": [
+          {
+            "id": "ee09a07b-ad6a-49d2-8a68-517724c07dd8",
+            "number": 1,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "1af87c28-721c-4536-a193-ec1783aa8a91",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "c0085477-d257-4b0d-9d24-68b0d5768753",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 78,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "d3988708-be19-4160-96b6-bce55f12f2fb",
+            "number": 4,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 62,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "1d0257e9-54c4-4742-9cfe-a34560f04628",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 31,
+        "number": 29,
+        "games": [
+          {
+            "id": "68121701-22af-45e4-864b-809c71485e45",
+            "number": 1,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 78,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "681317b0-797f-4b34-9b6f-83405e6ad9f9",
+            "number": 2,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 57.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "2a3aa559-9f40-43b0-8dbe-84458005ed77",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 77,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "11c5283f-291d-439d-8b41-3f850a51c163",
+            "number": 4,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 82.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "f51fdb38-8959-43e1-bdb7-5b9eecd88fa3",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 32,
+        "number": 30,
+        "games": [
+          {
+            "id": "d124b29b-7877-4b57-a46a-ff7ef5ca2c58",
+            "number": 1,
+            "home": "Partizan Degrado",
+            "homeOwner": "e.lisei@vetrya.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "6ef994a4-6776-4ef9-9534-6349209826e9",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "A.C. Ofeca",
+            "awayOwner": "lorenzo.catarcia@gmail.com",
+            "result": {
+              "home": {
+                "value": 72,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "149ee35e-2866-4495-98ca-803d456cd115",
+            "number": 3,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 81,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "c63c1411-cc73-4f51-b2a9-b1a9bb809d0b",
+            "number": 4,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 78.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "d4b80f3c-5e58-4d04-92bd-d57a5ea2f92b",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 65,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 77.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 33,
+        "number": 31,
+        "games": [
+          {
+            "id": "3adee625-1918-4a4f-b437-db3f7b5cc41c",
+            "number": 1,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 77.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "344dbbbf-d66f-42e3-85c4-c371394101ae",
+            "number": 2,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Corchiadoli United",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 91.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 5,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "9da9f9b7-2ff4-449c-bc35-b0cf829ed6f4",
+            "number": 3,
+            "home": "Più no kessie",
+            "homeOwner": "lucamar88",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 77.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "a28de5bd-a842-425c-b492-966613395458",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 74.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 56.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "4c541c81-a59a-40ed-93ca-dd0e6249a851",
+            "number": 5,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 82,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 34,
+        "number": 32,
+        "games": [
+          {
+            "id": "d5d64e6b-9b69-4013-a322-b523ed3efa16",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 80,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 58,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "9ad8ef31-2ede-412c-941d-09931db850f9",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 59,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "2ab2e86c-96a2-4bee-bf16-60529f5dd1a4",
+            "number": 3,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 53,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "c092a9b9-d13b-4c6f-a8a4-a3f99c268b87",
+            "number": 4,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "00db86f0-bede-49fd-a9da-af3658151455",
+            "number": 5,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 35,
+        "number": 33,
+        "games": [
+          {
+            "id": "c35cd03b-cb9e-4b23-ac12-ce5f4cb3e9c0",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 83,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 48,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "d043703f-5a1c-4f35-9e6c-c6e26900600e",
+            "number": 2,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 81,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 59,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "8b722535-e092-4ccb-afc1-3895411e8a60",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 77.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 80.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "5005ecb4-2107-4489-8f64-454648d98725",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 76,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "38f5c04b-05f2-40e1-94b5-b0dd1473af0e",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 36,
+        "number": 34,
+        "games": [
+          {
+            "id": "462a7a34-cbce-4cdf-a2e3-b7ad49eb6041",
+            "number": 1,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 82,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 89.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 4
+            }
+          },
+          {
+            "id": "f035a9e0-ce82-4e65-92a6-f6318ae37cb0",
+            "number": 2,
+            "home": "Cavoni United",
+            "homeOwner": "fiani.alessandro@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 53.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "557377e1-7ab8-4b29-b5f7-de95cbf9bafa",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "5ef3b0b1-5fef-4dea-a873-38617db7dfbe",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 92.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 5,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "d9671d8e-317c-4100-8e34-37272985dfd8",
+            "number": 5,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 83.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 51.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 37,
+        "number": 35,
+        "games": [
+          {
+            "id": "241f8e68-2163-4794-b0c1-8b8d883a717e",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 76,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "b8ded2ee-f2db-4104-ac03-c612708b433b",
+            "number": 2,
+            "home": "Chessea",
+            "homeOwner": "Andrea",
+            "away": "Partizan Degrado",
+            "awayOwner": "e.lisei@vetrya.com",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "7f3b38b8-a693-44fa-b2d8-ab872fa53807",
+            "number": 3,
+            "home": "Corchiadoli United",
+            "homeOwner": "Barzi",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "f446e43f-a7c5-4308-95ea-14771a2281af",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "4fe9059f-ea6a-4cb2-bfc3-e978b0f9f6c5",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "F.C. Bullicamense",
+            "awayOwner": "graziottimarco@gmail.com",
+            "result": {
+              "home": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 75,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 38,
+        "number": 36,
+        "games": [
+          {
+            "id": "98e84786-a676-4ded-8b7d-56c3686b491f",
+            "number": 1,
+            "home": "5.5.5. Longobarda",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Chessea",
+            "awayOwner": "Andrea",
+            "result": {
+              "home": {
+                "value": 81.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "7597e590-9f52-4de5-bb37-8dd5537832ac",
+            "number": 2,
+            "home": "F.C. Bullicamense",
+            "homeOwner": "graziottimarco@gmail.com",
+            "away": "Cavoni United",
+            "awayOwner": "fiani.alessandro@gmail.com",
+            "result": {
+              "home": {
+                "value": 88,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "246d19f4-4299-4940-bbaf-0c24cbd9a070",
+            "number": 3,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Più no kessie",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 54,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "away": {
+                "value": 58,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "d8c3e99c-82b1-4b0e-a884-ba3850cab706",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Corchiadoli United",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 52,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": true
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "31858789-90a2-40fe-82e0-f11b94ab604e",
+            "number": 5,
+            "home": "Partizan Degrado",
+            "homeOwner": "e.lisei@vetrya.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 74.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

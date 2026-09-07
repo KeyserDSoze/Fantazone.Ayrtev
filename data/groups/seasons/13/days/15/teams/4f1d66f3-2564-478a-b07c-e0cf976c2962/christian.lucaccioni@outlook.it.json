@@ -1,0 +1,359 @@
+{
+  "name": "Ombronese",
+  "owner": "christian.lucaccioni@outlook.it",
+  "additionalOwners": [],
+  "players": [
+    {
+      "name": "Skorupski",
+      "team": {
+        "name": "Bologna",
+        "abbreviation": "bol"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Okoye",
+      "team": {
+        "name": "Udinese",
+        "abbreviation": "udi"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 15,
+      "revenue": 0,
+      "status": 0,
+      "position": 4
+    },
+    {
+      "name": "Vasquez D.",
+      "team": {
+        "name": "Empoli",
+        "abbreviation": "emp"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 23,
+      "revenue": 0,
+      "status": 0,
+      "position": 0
+    },
+    {
+      "name": "Dodo",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": "fio"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 26,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Posch",
+      "team": {
+        "name": "Bologna",
+        "abbreviation": "bol"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 18,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Zortea",
+      "team": {
+        "name": "Cagliari",
+        "abbreviation": "cag"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 16,
+      "revenue": 0,
+      "status": 0,
+      "position": 5
+    },
+    {
+      "name": "Bastoni",
+      "team": {
+        "name": "Inter",
+        "abbreviation": "int"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 32,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Rrahmani",
+      "team": {
+        "name": "Napoli",
+        "abbreviation": "nap"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 16,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Beukema",
+      "team": {
+        "name": "Bologna",
+        "abbreviation": "bol"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 8,
+      "revenue": 0,
+      "status": 0,
+      "position": 6
+    },
+    {
+      "name": "Danilo",
+      "team": {
+        "name": "Juventus",
+        "abbreviation": "juv"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 14,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Ismajli",
+      "team": {
+        "name": "Empoli",
+        "abbreviation": "emp"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 3,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Conceicao",
+      "team": {
+        "name": "Juventus",
+        "abbreviation": "juv"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 30,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Pasalic",
+      "team": {
+        "name": "Atalanta",
+        "abbreviation": "ata"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 31,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "De Roon",
+      "team": {
+        "name": "Atalanta",
+        "abbreviation": "ata"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 3,
+      "revenue": 0,
+      "status": 0,
+      "position": 7
+    },
+    {
+      "name": "Ekkelenkamp",
+      "team": {
+        "name": "Udinese",
+        "abbreviation": "udi"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Tete Morente",
+      "team": {
+        "name": "Lecce",
+        "abbreviation": "lec"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 12,
+      "revenue": 0,
+      "status": 0,
+      "position": 8
+    },
+    {
+      "name": "Strefezza",
+      "team": {
+        "name": "Como",
+        "abbreviation": "com"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 80,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Ellertsson",
+      "team": {
+        "name": "Venezia",
+        "abbreviation": "ven"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Fagioli",
+      "team": {
+        "name": "Juventus",
+        "abbreviation": "juv"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Martinez L.",
+      "team": {
+        "name": "Inter",
+        "abbreviation": "int"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 360,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Thauvin",
+      "team": {
+        "name": "Udinese",
+        "abbreviation": "udi"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 35,
+      "revenue": 0,
+      "status": 0,
+      "position": 9
+    },
+    {
+      "name": "Krstovic",
+      "team": {
+        "name": "Lecce",
+        "abbreviation": "lec"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 30,
+      "revenue": 0,
+      "status": 0,
+      "position": 10
+    },
+    {
+      "name": "Gudmundsson A.",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": "fio"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 108,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "De Ketelaere",
+      "team": {
+        "name": "Atalanta",
+        "abbreviation": "ata"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 112,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Almqvist",
+      "team": {
+        "name": "Parma",
+        "abbreviation": "par"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    }
+  ],
+  "moneyFromRank": 0,
+  "lastUpdate": "2024-12-06T14:47:37.7326954Z"
+}

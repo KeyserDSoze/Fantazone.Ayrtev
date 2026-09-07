@@ -1,0 +1,401 @@
+{
+  "name": "Goldenteam",
+  "owner": "goldenhot@hotmail.it",
+  "additionalOwners": [],
+  "players": [
+    {
+      "name": "Reina",
+      "team": {
+        "name": "Como",
+        "abbreviation": "com"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 2,
+      "position": 11
+    },
+    {
+      "name": "Milinkovic-Savic V.",
+      "team": {
+        "name": "Torino",
+        "abbreviation": "tor"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 60,
+      "revenue": 0,
+      "status": 0,
+      "position": 0
+    },
+    {
+      "name": "Provedel",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 77,
+      "revenue": 0,
+      "status": 0,
+      "position": 4
+    },
+    {
+      "name": "Gila",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 5,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Lazzari",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 10,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Valeri",
+      "team": {
+        "name": "Parma",
+        "abbreviation": "par"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 5
+    },
+    {
+      "name": "Hernandez T.",
+      "team": {
+        "name": "Milan",
+        "abbreviation": "mil"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 100,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Tavares N.",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 50,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Patric",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Luperto",
+      "team": {
+        "name": "Cagliari",
+        "abbreviation": "cag"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 5,
+      "revenue": 0,
+      "status": 0,
+      "position": 6
+    },
+    {
+      "name": "Gigot",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Vecino",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Mkhitaryan",
+      "team": {
+        "name": "Inter",
+        "abbreviation": "int"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 70,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Dele-Bashiru",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Barella",
+      "team": {
+        "name": "Inter",
+        "abbreviation": "int"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 105,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Folorunsho",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": "fio"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 7
+    },
+    {
+      "name": "Zambo Anguissa",
+      "team": {
+        "name": "Napoli",
+        "abbreviation": "nap"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 45,
+      "revenue": 0,
+      "status": 0,
+      "position": 8
+    },
+    {
+      "name": "Rovella",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 3,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Tchaouna",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 2,
+      "position": 11
+    },
+    {
+      "name": "Isaksen",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 30,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Scamacca",
+      "team": {
+        "name": "Atalanta",
+        "abbreviation": "ata"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 10,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Dia",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 80,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Lookman",
+      "team": {
+        "name": "Atalanta",
+        "abbreviation": "ata"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 300,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Belotti",
+      "team": {
+        "name": "Como",
+        "abbreviation": "com"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 31,
+      "revenue": 0,
+      "status": 1,
+      "position": 10
+    },
+    {
+      "name": "Cutrone",
+      "team": {
+        "name": "Como",
+        "abbreviation": "com"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 10
+    },
+    {
+      "name": "Mandas",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Cataldi",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": "fio"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Pedro",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 100,
+      "revenue": 0,
+      "status": 0,
+      "position": 9
+    }
+  ],
+  "moneyFromRank": 267,
+  "lastUpdate": "2025-02-28T14:20:31.7944345Z"
+}

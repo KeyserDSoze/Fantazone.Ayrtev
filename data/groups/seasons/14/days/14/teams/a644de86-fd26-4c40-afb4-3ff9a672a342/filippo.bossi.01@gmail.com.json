@@ -1,0 +1,359 @@
+{
+  "name": "Rooney tunes",
+  "owner": "filippo.bossi.01@gmail.com",
+  "additionalOwners": [],
+  "players": [
+    {
+      "name": "Butez",
+      "team": {
+        "name": "Como",
+        "abbreviation": "com"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 5,
+      "revenue": 0,
+      "status": 0,
+      "position": 4
+    },
+    {
+      "name": "Carnesecchi",
+      "team": {
+        "name": "Atalanta",
+        "abbreviation": "ata"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 30,
+      "revenue": 0,
+      "status": 0,
+      "position": 0
+    },
+    {
+      "name": "Sportiello",
+      "team": {
+        "name": "Atalanta",
+        "abbreviation": "ata"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Bastoni",
+      "team": {
+        "name": "Inter",
+        "abbreviation": "int"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 45,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Buongiorno",
+      "team": {
+        "name": "Napoli",
+        "abbreviation": "nap"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 42,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Gabbia",
+      "team": {
+        "name": "Milan",
+        "abbreviation": "mil"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 12,
+      "revenue": 0,
+      "status": 0,
+      "position": 5
+    },
+    {
+      "name": "Gila",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": "laz"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 16,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Hermoso",
+      "team": {
+        "name": "Roma",
+        "abbreviation": "rom"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 2,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Juan Jesus",
+      "team": {
+        "name": "Napoli",
+        "abbreviation": "nap"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Mancini",
+      "team": {
+        "name": "Roma",
+        "abbreviation": "rom"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 24,
+      "revenue": 0,
+      "status": 0,
+      "position": 6
+    },
+    {
+      "name": "Muharemovic",
+      "team": {
+        "name": "Sassuolo",
+        "abbreviation": "sas"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Gudmundsson A.",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": "fio"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 96,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Sucic P.",
+      "team": {
+        "name": "Inter",
+        "abbreviation": "int"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 41,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Bernabè",
+      "team": {
+        "name": "Parma",
+        "abbreviation": "par"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 16,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "De Roon",
+      "team": {
+        "name": "Atalanta",
+        "abbreviation": "ata"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 7
+    },
+    {
+      "name": "Folorunsho",
+      "team": {
+        "name": "Cagliari",
+        "abbreviation": "cag"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Frattesi",
+      "team": {
+        "name": "Inter",
+        "abbreviation": "int"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Aebischer",
+      "team": {
+        "name": "Pisa",
+        "abbreviation": "pis"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 8
+    },
+    {
+      "name": "Anjorin",
+      "team": {
+        "name": "Torino",
+        "abbreviation": "tor"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Castro S.",
+      "team": {
+        "name": "Bologna",
+        "abbreviation": "bol"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 140,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Gimenez",
+      "team": {
+        "name": "Milan",
+        "abbreviation": "mil"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 81,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Immobile",
+      "team": {
+        "name": "Bologna",
+        "abbreviation": "bol"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 51,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Lang",
+      "team": {
+        "name": "Napoli",
+        "abbreviation": "nap"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 5,
+      "revenue": 0,
+      "status": 0,
+      "position": 9
+    },
+    {
+      "name": "Thuram",
+      "team": {
+        "name": "Inter",
+        "abbreviation": "int"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 313,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Piccoli",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": "fio"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 45,
+      "revenue": 0,
+      "status": 0,
+      "position": 10
+    }
+  ],
+  "moneyFromRank": 0,
+  "lastUpdate": "2025-12-06T11:37:26.1534249Z"
+}

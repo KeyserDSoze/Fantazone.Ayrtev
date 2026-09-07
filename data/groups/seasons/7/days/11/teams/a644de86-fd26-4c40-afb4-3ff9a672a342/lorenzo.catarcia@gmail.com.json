@@ -1,0 +1,359 @@
+{
+  "name": "A.C. Ofeca",
+  "owner": "lorenzo.catarcia@gmail.com",
+  "additionalOwners": [],
+  "players": [
+    {
+      "name": "Handanovic",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 65,
+      "revenue": 0,
+      "status": 0,
+      "position": 0
+    },
+    {
+      "name": "Gosens",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Criscito",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 11,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Nuytinck",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 6,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Soriano",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 34,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Calhanoglu",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 83,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Parolo",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 31,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Gerson",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 31,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Mertens",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 100,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Mandzukic",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 103,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Pavoletti",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 100,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Padelli",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 4
+    },
+    {
+      "name": "Mattiello",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 8,
+      "revenue": 0,
+      "status": 0,
+      "position": 5
+    },
+    {
+      "name": "Rasmussen",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 5,
+      "revenue": 0,
+      "status": 0,
+      "position": 6
+    },
+    {
+      "name": "Berisha v",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 21,
+      "revenue": 0,
+      "status": 0,
+      "position": 7
+    },
+    {
+      "name": "Bessa",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 8
+    },
+    {
+      "name": "Kownacki",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 9
+    },
+    {
+      "name": "Petagna",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 10
+    },
+    {
+      "name": "Pasalic",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 20,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Aina",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 11,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Manolas",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 40,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Hamsik",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 50,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Romagnoli a",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 34,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Terracciano",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Teodorczyk",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 2,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    }
+  ],
+  "moneyFromRank": 0,
+  "lastUpdate": null
+}

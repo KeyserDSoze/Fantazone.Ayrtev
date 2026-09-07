@@ -1,0 +1,359 @@
+{
+  "name": "Soze Heaven",
+  "owner": "alessandro.rapiti44@gmail.com",
+  "additionalOwners": [],
+  "players": [
+    {
+      "name": "Handanovic",
+      "team": {
+        "name": "Inter",
+        "abbreviation": ""
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 75,
+      "revenue": 0,
+      "status": 0,
+      "position": 0
+    },
+    {
+      "name": "Stryger-Larsen",
+      "team": {
+        "name": "Udinese",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 19,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Yoshida",
+      "team": {
+        "name": "Sampdoria",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 36,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "De-Ligt",
+      "team": {
+        "name": "Juve",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 26,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Barak",
+      "team": {
+        "name": "Verona",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 31,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Elmas",
+      "team": {
+        "name": "Napoli",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 19,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Locatelli",
+      "team": {
+        "name": "Juve",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 38,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Mckennie",
+      "team": {
+        "name": "Juve",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 10,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Belotti",
+      "team": {
+        "name": "Torino",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 156,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Immobile",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 285,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Pussetto",
+      "team": {
+        "name": "Udinese",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 24,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Radu-I",
+      "team": {
+        "name": "Inter",
+        "abbreviation": ""
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 4
+    },
+    {
+      "name": "Biraghi",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 20,
+      "revenue": 0,
+      "status": 0,
+      "position": 5
+    },
+    {
+      "name": "Singo",
+      "team": {
+        "name": "Torino",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 21,
+      "revenue": 0,
+      "status": 0,
+      "position": 6
+    },
+    {
+      "name": "Callejon",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 17,
+      "revenue": 0,
+      "status": 0,
+      "position": 7
+    },
+    {
+      "name": "Lucas-Leiva",
+      "team": {
+        "name": "Lazio",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 8
+    },
+    {
+      "name": "El-Shaarawy",
+      "team": {
+        "name": "Roma",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 41,
+      "revenue": 0,
+      "status": 0,
+      "position": 9
+    },
+    {
+      "name": "Mancuso",
+      "team": {
+        "name": "Empoli",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 88,
+      "revenue": 0,
+      "status": 0,
+      "position": 10
+    },
+    {
+      "name": "Cordaz",
+      "team": {
+        "name": "Inter",
+        "abbreviation": ""
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Vanheusden",
+      "team": {
+        "name": "Genoa",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 8,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "De-Silvestri",
+      "team": {
+        "name": "Bologna",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 17,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Manolas",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 16,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Traore-Hj",
+      "team": {
+        "name": "Sassuolo",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 16,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Perisic",
+      "team": {
+        "name": "Inter",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 19,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Petagna",
+      "team": {
+        "name": "Napoli",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 2,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    }
+  ],
+  "moneyFromRank": 0,
+  "lastUpdate": null
+}

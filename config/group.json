@@ -1,0 +1,4001 @@
+{
+  "id": "151b462a-d7e6-4449-95e4-94b542f00c81",
+  "name": "Fantacalcio",
+  "leagues": [
+    {
+      "id": "07ef9475-ba67-4e33-98b3-af4e764a5fc8",
+      "name": "Serie A",
+      "isMain": true,
+      "type": 1,
+      "years": [
+        {
+          "year": 1,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 2,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 3,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 4,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 5,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 6,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 7,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 8,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 9,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 10,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 1,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 11,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 12,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 2,
+            "cancelledDay": 1,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 13,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 2
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 2,
+            "cancelledDay": 2,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": true,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 14,
+          "type": 0,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 1
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 2,
+            "cancelledDay": 1,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 2,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": true,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 15,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 1
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 2,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": true,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        }
+      ],
+      "basketsId": [
+        "4f1d66f3-2564-478a-b07c-e0cf976c2962"
+      ]
+    },
+    {
+      "id": "f9254666-8bf0-4704-84fb-34161731aada",
+      "name": "Premier League",
+      "isMain": true,
+      "type": 1,
+      "years": [
+        {
+          "year": 3,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 4,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 5,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 6,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 7,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 8,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 9,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 10,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 11,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 12,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 2,
+            "cancelledDay": 2,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 13,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 2
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 2,
+            "cancelledDay": 1,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 14,
+          "type": 0,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 1
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 2,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 15,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 1
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 2,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 2,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        }
+      ],
+      "basketsId": [
+        "a644de86-fd26-4c40-afb4-3ff9a672a342"
+      ]
+    },
+    {
+      "id": "0a8cc559-b101-4ce4-be95-a8ea45073b83",
+      "name": "Champions League",
+      "isMain": false,
+      "type": 3,
+      "years": [
+        {
+          "year": 3,
+          "type": 2,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 10,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 4,
+          "type": 2,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 10,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 5,
+          "type": 2,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 10,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 6,
+          "type": 2,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 10,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 7,
+          "type": 2,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 10,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 8,
+          "type": 2,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 10,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 9,
+          "type": 2,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 10,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 10,
+          "type": 2,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 10,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 11,
+          "type": 2,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 10,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 12,
+          "type": 2,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 8,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 13,
+          "type": 3,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 2
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 6,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 14,
+          "type": 0,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 1
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 6,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 2,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 15,
+          "type": 3,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 1
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 6,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 2,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        }
+      ],
+      "basketsId": [
+        "4f1d66f3-2564-478a-b07c-e0cf976c2962",
+        "a644de86-fd26-4c40-afb4-3ff9a672a342"
+      ]
+    },
+    {
+      "id": "d707bfb4-16d5-48c2-80cb-e97c0a4fc659",
+      "name": "Super League",
+      "isMain": false,
+      "type": 4,
+      "years": [
+        {
+          "year": 5,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 0,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 0,
+            "pointForStrongDefense4": 0,
+            "pointForStrongDefense5": 0,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 6,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 0,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 7,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 0,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 0,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 0,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 8,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 0,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 0,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 3,
+            "pointForStrongDefense4": 3,
+            "pointForStrongDefense5": 3,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 9,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 0,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 10,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 0,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 11,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 0,
+            "delayedDay": 0,
+            "cancelledDay": 0,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 12,
+          "type": 1,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 0
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 0,
+            "cancelledDay": 4,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 3,
+            "pointForDefeat": 0,
+            "pointForDraw": 1,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": false,
+            "market": 0
+          }
+        },
+        {
+          "year": 13,
+          "type": 4,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 2
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 0,
+            "cancelledDay": 4,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 6,
+            "pointForDefeat": 0,
+            "pointForDraw": 2,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 0,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": true,
+            "market": 0
+          }
+        },
+        {
+          "year": 14,
+          "type": 0,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 1
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 0,
+            "cancelledDay": 3,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 6,
+            "pointForDefeat": 0,
+            "pointForDraw": 2,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 2,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": true,
+            "market": 0
+          }
+        },
+        {
+          "year": 15,
+          "type": 4,
+          "settings": {
+            "votes": {
+              "Undefined": {
+                "goal": 3,
+                "penalty": 3,
+                "sufferedGoal": -1,
+                "stoppedPenalty": 3,
+                "wrongedPenalty": -3,
+                "ownGoal": -3,
+                "assist": 1,
+                "yellowCard": -0.5,
+                "redCard": -1,
+                "injury": 0,
+                "manOfTheMatch": 1
+              }
+            },
+            "formation": 0,
+            "typeSettings": null,
+            "startingMoney": 1000,
+            "delayedDay": 0,
+            "cancelledDay": 3,
+            "pointForFirstGoal": 66,
+            "pointForNextGoal": 6,
+            "pointForOwnGoal": 6,
+            "differencePointForOwnGoal": 6,
+            "pointInHome": 0,
+            "pointForVictory": 6,
+            "pointForDefeat": 0,
+            "pointForDraw": 2,
+            "pointForStrongDefense": 2,
+            "pointForStrongDefense4": 4,
+            "pointForStrongDefense5": 6,
+            "pointForGoodPeople": 2,
+            "pointForCleanSheet": 1,
+            "moneyForGoal": 5,
+            "moneyForSufferedGoal": 3,
+            "randomAuction": false,
+            "rankWithValuePoints": true,
+            "market": 0
+          }
+        }
+      ],
+      "basketsId": [
+        "4f1d66f3-2564-478a-b07c-e0cf976c2962",
+        "a644de86-fd26-4c40-afb4-3ff9a672a342"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "username": "alessandrof",
+      "email": "al.forbicioni@gmail.com",
+      "role": 2
+    },
+    {
+      "username": "Keysersoze",
+      "email": "alessandro.rapiti44@gmail.com",
+      "role": 14
+    },
+    {
+      "username": "Oliver",
+      "email": "alessiooliverio@gmail.com",
+      "role": 2
+    },
+    {
+      "username": "luca",
+      "email": "baghiniluca@gmail.com",
+      "role": 2
+    },
+    {
+      "username": "DarkLord",
+      "email": "christian.lucaccioni@outlook.it",
+      "role": 2
+    },
+    {
+      "username": "Henrich",
+      "email": "crostafabio87@gmail.com",
+      "role": 2
+    },
+    {
+      "username": "Squall",
+      "email": "daniele.fetoni@hotmail.it",
+      "role": 2
+    },
+    {
+      "username": "jeffturner",
+      "email": "federicomartelloni@gmail.com",
+      "role": 6
+    },
+    {
+      "username": "ElettroAle",
+      "email": "fiani.alessandro@gmail.com",
+      "role": 2
+    },
+    {
+      "username": "Champion",
+      "email": "filippo.bossi.01@gmail.com",
+      "role": 2
+    },
+    {
+      "username": "Goldenhot",
+      "email": "goldenhot@hotmail.it",
+      "role": 2
+    },
+    {
+      "username": "saretta110",
+      "email": "joria87@hotmail.it",
+      "role": 2
+    },
+    {
+      "username": "SirJem",
+      "email": "luca.morleschi@outlook.it",
+      "role": 1
+    },
+    {
+      "username": "Maurizio",
+      "email": "m.forbicioni@hotmail.it",
+      "role": 2
+    },
+    {
+      "username": "perugini",
+      "email": "peruginialessandro@hotmail.it",
+      "role": 2
+    },
+    {
+      "username": "scarsenal",
+      "email": "theos.lumia@hotmail.it",
+      "role": 2
+    },
+    {
+      "username": "lorenzo",
+      "email": "lorenzo.catarcia@gmail.com",
+      "role": 2
+    },
+    {
+      "username": "marcog",
+      "email": "graziottimarco@gmail.com",
+      "role": 2
+    },
+    {
+      "username": "AndreaRules",
+      "email": "nicosia.andrea99@gmail.com",
+      "role": 2
+    },
+    {
+      "username": "Snailman",
+      "email": "Snail84muz@hotmail.com",
+      "role": 2
+    },
+    {
+      "username": "carpinelli.lorenzo@libero.it",
+      "email": "carpinelli.lorenzo@libero.it",
+      "role": 3
+    }
+  ],
+  "baskets": [
+    {
+      "id": "4f1d66f3-2564-478a-b07c-e0cf976c2962",
+      "name": "Serie A",
+      "years": [
+        {
+          "year": 1,
+          "teams": [
+            {
+              "name": "A.C. Picchia",
+              "owner": "emanuele",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.S. Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo La Carogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.F.C. Scarsenal",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "GoldenTeam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Luxar Triy",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "poor anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Sturmtruppen",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "The Valent One",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 2,
+          "teams": [
+            {
+              "name": "A.C. Pikkia",
+              "owner": "emanuele",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.S. Ambrosiana",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.S. Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.F.C. Scarsenal",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Poor Anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Disaster",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 3,
+          "teams": [
+            {
+              "name": "A.C. Pikkia",
+              "owner": "emanuele",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.S. Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Bayern Monco",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Vergogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.F.C. Scarsenal³",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Poor Anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Disaster",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 4,
+          "teams": [
+            {
+              "name": "A.C. Pikkia",
+              "owner": "emanuele",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.S. Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Bayern Monco",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Menzogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.F.C. Scarsenal⁴",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Poor Anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Disaster",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 5,
+          "teams": [
+            {
+              "name": "A.C. Pikkia",
+              "owner": "emanuele",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.S. Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Bayern Monco",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.F.C. Scarsenal⁵",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Poor Anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Disaster",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 6,
+          "teams": [
+            {
+              "name": "A.S. Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Bayern Monco",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.F.C. Scarsenal⁶",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Herta Vernello",
+              "owner": "emanuele",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Poor Anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Disaster",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 7,
+          "teams": [
+            {
+              "name": "A.S. Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Bayern Monco",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.F.C. Scarsenal⁷",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Poor Anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Disaster",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Herta Vernello",
+              "owner": "emanuele",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 8,
+          "teams": [
+            {
+              "name": "F.F.C. Scarsenal9",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "AS Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "poor anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "herta Vernello",
+              "owner": "emanuele",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Disaster",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Bayern Monco",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 9,
+          "teams": [
+            {
+              "name": "F.F.C. Scarsenal⁹",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "AS Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "poor anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "herta Vernello",
+              "owner": "emanuele",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Disaster",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Bayern Monco",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 10,
+          "teams": [
+            {
+              "name": "FDC Scarsenal¹⁰",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "AS Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "poor anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Oliver Team",
+              "owner": "alessiooliverio@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Disaster",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Bayern Monco",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 11,
+          "teams": [
+            {
+              "name": "FDC Scarsenal¹¹",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "AS Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "poor anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Oliver Team",
+              "owner": "alessiooliverio@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Disaster",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Bayern Monco",
+              "owner": "panagiac",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 12,
+          "teams": [
+            {
+              "name": "AS Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Oliver team",
+              "owner": "alessiooliverio@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": " Real Disaster ",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Poor Anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "FDC Scarsenal¹²",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "The Valent 111",
+              "owner": "Snail84muz@hotmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 13,
+          "teams": [
+            {
+              "name": "AS Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Heaven",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Oliver team",
+              "owner": "alessiooliverio@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": " Real Disaster ",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Poor Anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "FDC Scarsenal¹³",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "The Valent 111",
+              "owner": "Snail84muz@hotmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 14,
+          "teams": [
+            {
+              "name": "AS Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Hell",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Oliver team",
+              "owner": "alessiooliverio@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": " Real Disaster ",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Poor Anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "FDC Scarsenal¹⁴",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "The Valent 111",
+              "owner": "Snail84muz@hotmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 15,
+          "teams": [
+            {
+              "name": "AS Tronzi",
+              "owner": "al.forbicioni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Soze Hell",
+              "owner": "alessandro.rapiti44@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Oliver team",
+              "owner": "alessiooliverio@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": " Real Disaster ",
+              "owner": "baghiniluca@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Ombronese",
+              "owner": "christian.lucaccioni@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Deportivo la Scalogna",
+              "owner": "daniele.fetoni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Goldenteam",
+              "owner": "goldenhot@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Poor Anus",
+              "owner": "m.forbicioni@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "FDC Scarsenal¹⁴",
+              "owner": "theos.lumia@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "The Valent 111",
+              "owner": "Snail84muz@hotmail.com",
+              "additionalOwners": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "a644de86-fd26-4c40-afb4-3ff9a672a342",
+      "name": "Premier League",
+      "years": [
+        {
+          "year": 3,
+          "teams": [
+            {
+              "name": "A.C. Avatta",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "ASDCeProvamo",
+              "owner": "pepiuz",
+              "additionalOwners": []
+            },
+            {
+              "name": "Atletico 'na volta",
+              "owner": "francescof",
+              "additionalOwners": []
+            },
+            {
+              "name": "Atletico Poldo",
+              "owner": "poldo",
+              "additionalOwners": []
+            },
+            {
+              "name": "FC Boh",
+              "owner": "danielec",
+              "additionalOwners": []
+            },
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "notNaVi",
+              "owner": "GjRud",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Bucarozza",
+              "owner": "Eloreden",
+              "additionalOwners": []
+            },
+            {
+              "name": "THE MUPPETT SHOW",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Tigers",
+              "owner": "brax",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 4,
+          "teams": [
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Fossa dei Leoni",
+              "owner": "lucamar88",
+              "additionalOwners": []
+            },
+            {
+              "name": "Le carogne",
+              "owner": "alan",
+              "additionalOwners": []
+            },
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "notNaVi",
+              "owner": "GjRud",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Bucarozza",
+              "owner": "Eloreden",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Gradolese",
+              "owner": "Barzi",
+              "additionalOwners": []
+            },
+            {
+              "name": "Sporting Pado",
+              "owner": "danielec",
+              "additionalOwners": []
+            },
+            {
+              "name": "THE MUPPETT SHOW",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Tigers Reloaded",
+              "owner": "Frank Sinatra",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 5,
+          "teams": [
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Corchiadoli United",
+              "owner": "Barzi",
+              "additionalOwners": []
+            },
+            {
+              "name": "CSK Il Poke",
+              "owner": "lucamar88",
+              "additionalOwners": []
+            },
+            {
+              "name": "FC Bho - Return",
+              "owner": "danielec",
+              "additionalOwners": []
+            },
+            {
+              "name": "Le carogne",
+              "owner": "alan",
+              "additionalOwners": []
+            },
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "notNaVi",
+              "owner": "GjRud",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Bucarozza",
+              "owner": "Eloreden",
+              "additionalOwners": []
+            },
+            {
+              "name": "THE MUPPETT SHOW",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Tigers Reloaded",
+              "owner": "Frank Sinatra",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 6,
+          "teams": [
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Chessea",
+              "owner": "Andrea",
+              "additionalOwners": []
+            },
+            {
+              "name": "Corchiadoli United",
+              "owner": "Barzi",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Bullicamense",
+              "owner": "graziottimarco@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Scrotone",
+              "owner": "lucamar88",
+              "additionalOwners": []
+            },
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Bucarozza",
+              "owner": "Eloreden",
+              "additionalOwners": []
+            },
+            {
+              "name": "Sbocca Juniors",
+              "owner": "fiani.alessandro@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "THE MUPPETT SHOW",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Tigers Reloaded",
+              "owner": "Frank Sinatra",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 7,
+          "teams": [
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Cavoni United",
+              "owner": "fiani.alessandro@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Chessea",
+              "owner": "Andrea",
+              "additionalOwners": []
+            },
+            {
+              "name": "Corchiadoli United",
+              "owner": "Barzi",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Bullicamense",
+              "owner": "graziottimarco@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Scrotone",
+              "owner": "lucamar88",
+              "additionalOwners": []
+            },
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Bucarozza",
+              "owner": "Eloreden",
+              "additionalOwners": []
+            },
+            {
+              "name": "THE MUPPETT SHOW",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Tigers Reloaded",
+              "owner": "Frank Sinatra",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 8,
+          "teams": [
+            {
+              "name": "5.5.5. Longobarda",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Corchiadoli United",
+              "owner": "Barzi",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Bucarozza",
+              "owner": "Eloreden",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Bullicamense",
+              "owner": "graziottimarco@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Cavoni United",
+              "owner": "fiani.alessandro@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Chessea",
+              "owner": "Andrea",
+              "additionalOwners": []
+            },
+            {
+              "name": "Partizan Degrado",
+              "owner": "e.lisei@vetrya.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Più no kessie",
+              "owner": "lucamar88",
+              "additionalOwners": []
+            },
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 9,
+          "teams": [
+            {
+              "name": "5.5.5. Longobarda",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Corchiadoli United",
+              "owner": "Barzi",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Bucarozza",
+              "owner": "Eloreden",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Bullicamense",
+              "owner": "graziottimarco@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Cavoni United",
+              "owner": "fiani.alessandro@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Chessea",
+              "owner": "Andrea",
+              "additionalOwners": []
+            },
+            {
+              "name": "Partizan Degrado",
+              "owner": "e.lisei@vetrya.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Più no kessie",
+              "owner": "lucamar88",
+              "additionalOwners": []
+            },
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 10,
+          "teams": [
+            {
+              "name": "5.5.5. Longobarda",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.C. Tua",
+              "owner": "joria87@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "BreakingBad Team",
+              "owner": "valerio86",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Bullicamense",
+              "owner": "graziottimarco@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Cavoni United",
+              "owner": "fiani.alessandro@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Chessea",
+              "owner": "Andrea",
+              "additionalOwners": []
+            },
+            {
+              "name": "Partizan Degrado",
+              "owner": "e.lisei@vetrya.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Herta Mpone",
+              "owner": "lucamar88",
+              "additionalOwners": []
+            },
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 11,
+          "teams": [
+            {
+              "name": "5.5.5. Longobarda",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Bucarozza",
+              "owner": "joria87@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Fiordini",
+              "owner": "luca.morleschi@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Bullicamense",
+              "owner": "graziottimarco@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Cavoni United",
+              "owner": "fiani.alessandro@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Mainz Na Gioia",
+              "owner": "filippo.bossi.01@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Aggi Glaud",
+              "owner": "Corvine",
+              "additionalOwners": []
+            },
+            {
+              "name": "D10_C4n3",
+              "owner": "peruginialessandro@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 12,
+          "teams": [
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Longobarda 5 5 5",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Cavoni United",
+              "owner": "fiani.alessandro@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Rooney tunes",
+              "owner": "filippo.bossi.01@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Fiordini",
+              "owner": "joria87@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Bucarozza",
+              "owner": "luca.morleschi@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "M4d0nn4m41474",
+              "owner": "peruginialessandro@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Bullicamense",
+              "owner": "graziottimarco@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Saetta McKennie",
+              "owner": "nicosia.andrea99@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 13,
+          "teams": [
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Longobarda 5 5 5",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Cavoni United",
+              "owner": "fiani.alessandro@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Rooney tunes",
+              "owner": "filippo.bossi.01@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Fiordini",
+              "owner": "joria87@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Bucarozza",
+              "owner": "luca.morleschi@outlook.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "M4d0nn4m41474",
+              "owner": "peruginialessandro@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Bullicamense",
+              "owner": "graziottimarco@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Saetta McTominay",
+              "owner": "nicosia.andrea99@gmail.com",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 14,
+          "teams": [
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Longobarda 5 5 5",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Cavoni United",
+              "owner": "fiani.alessandro@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Rooney tunes",
+              "owner": "filippo.bossi.01@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Fiordini",
+              "owner": "joria87@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "M4d0nn4m41474",
+              "owner": "peruginialessandro@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Bullicamense",
+              "owner": "graziottimarco@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Saetta McTominay",
+              "owner": "nicosia.andrea99@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.S.D. Carpi",
+              "owner": "carpinelli.lorenzo@libero.it",
+              "additionalOwners": []
+            }
+          ]
+        },
+        {
+          "year": 15,
+          "teams": [
+            {
+              "name": "Los Scandalos",
+              "owner": "crostafabio87@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Longobarda 5 5 5",
+              "owner": "federicomartelloni@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Cavoni United",
+              "owner": "fiani.alessandro@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Rooney tunes",
+              "owner": "filippo.bossi.01@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Real Fiordini",
+              "owner": "joria87@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "M4d0nn4m41474",
+              "owner": "peruginialessandro@hotmail.it",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.C. Ofeca",
+              "owner": "lorenzo.catarcia@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "F.C. Bullicamense",
+              "owner": "graziottimarco@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "Saetta McTominay",
+              "owner": "nicosia.andrea99@gmail.com",
+              "additionalOwners": []
+            },
+            {
+              "name": "A.S.D. Carpi",
+              "owner": "carpinelli.lorenzo@libero.it",
+              "additionalOwners": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

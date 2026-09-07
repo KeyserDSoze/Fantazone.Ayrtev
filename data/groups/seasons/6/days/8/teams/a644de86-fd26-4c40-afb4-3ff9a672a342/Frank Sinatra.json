@@ -1,0 +1,359 @@
+{
+  "name": "Tigers Reloaded",
+  "owner": "Frank Sinatra",
+  "additionalOwners": [],
+  "players": [
+    {
+      "name": "Handanovic",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 89,
+      "revenue": 0,
+      "status": 0,
+      "position": 0
+    },
+    {
+      "name": "Ghoulam",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 40,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Miranda",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 31,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Barreca",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 19,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Hamsik",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 180,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Lulic",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 10,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Veretout",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Bernardeschi",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 20,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Callejon",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 130,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Higuain",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 311,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Pazzini",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 60,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Cragno",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 2,
+      "revenue": 0,
+      "status": 0,
+      "position": 4
+    },
+    {
+      "name": "Dainelli",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 11,
+      "revenue": 0,
+      "status": 0,
+      "position": 5
+    },
+    {
+      "name": "Biraschi",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 6
+    },
+    {
+      "name": "Cataldi",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 7
+    },
+    {
+      "name": "Ciciretti",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 25,
+      "revenue": 0,
+      "status": 0,
+      "position": 8
+    },
+    {
+      "name": "Sau",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 17,
+      "revenue": 0,
+      "status": 0,
+      "position": 9
+    },
+    {
+      "name": "Nani",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 60,
+      "revenue": 0,
+      "status": 0,
+      "position": 10
+    },
+    {
+      "name": "El shaarawy",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 3,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Bonucci",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 58,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Caceres",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 50,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Centurion",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Gaspar b",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 7,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Florenzi",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 36,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Marchetti",
+      "team": {
+        "name": "",
+        "abbreviation": ""
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 2,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    }
+  ],
+  "moneyFromRank": 0,
+  "lastUpdate": null
+}

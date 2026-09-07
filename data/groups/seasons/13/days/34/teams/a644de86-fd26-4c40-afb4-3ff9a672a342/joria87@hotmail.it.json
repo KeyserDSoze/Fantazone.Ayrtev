@@ -1,0 +1,429 @@
+{
+  "name": "Real Fiordini",
+  "owner": "joria87@hotmail.it",
+  "additionalOwners": [],
+  "players": [
+    {
+      "name": "Vasquez D.",
+      "team": {
+        "name": "Empoli",
+        "abbreviation": "emp"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 47,
+      "revenue": 0,
+      "status": 0,
+      "position": 4
+    },
+    {
+      "name": "Perisan",
+      "team": {
+        "name": "Empoli",
+        "abbreviation": "emp"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 1,
+      "position": 11
+    },
+    {
+      "name": "Caprile",
+      "team": {
+        "name": "Cagliari",
+        "abbreviation": "cag"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 0
+    },
+    {
+      "name": "Gaspar K.",
+      "team": {
+        "name": "Lecce",
+        "abbreviation": "lec"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 5,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Guilbert",
+      "team": {
+        "name": "Lecce",
+        "abbreviation": "lec"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 6,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Hermoso",
+      "team": {
+        "name": "Roma",
+        "abbreviation": "rom"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 12,
+      "revenue": 0,
+      "status": 1,
+      "position": 11
+    },
+    {
+      "name": "Luperto",
+      "team": {
+        "name": "Cagliari",
+        "abbreviation": "cag"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 9,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Mari",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": "fio"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 2,
+      "revenue": 0,
+      "status": 0,
+      "position": 5
+    },
+    {
+      "name": "Mina",
+      "team": {
+        "name": "Cagliari",
+        "abbreviation": "cag"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 11,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Pongracic",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": "fio"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 11,
+      "revenue": 0,
+      "status": 0,
+      "position": 6
+    },
+    {
+      "name": "Valeri",
+      "team": {
+        "name": "Parma",
+        "abbreviation": "par"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 9,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Badelj",
+      "team": {
+        "name": "Genoa",
+        "abbreviation": "gen"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 6,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Fofana Y.",
+      "team": {
+        "name": "Milan",
+        "abbreviation": "mil"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 2,
+      "revenue": 0,
+      "status": 0,
+      "position": 7
+    },
+    {
+      "name": "Frendrup",
+      "team": {
+        "name": "Genoa",
+        "abbreviation": "gen"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 22,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Gyasi",
+      "team": {
+        "name": "Empoli",
+        "abbreviation": "emp"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 12,
+      "revenue": 0,
+      "status": 0,
+      "position": 8
+    },
+    {
+      "name": "Kone M.",
+      "team": {
+        "name": "Roma",
+        "abbreviation": "rom"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 3,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Lobotka",
+      "team": {
+        "name": "Napoli",
+        "abbreviation": "nap"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 10,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Lovric",
+      "team": {
+        "name": "Udinese",
+        "abbreviation": "udi"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 16,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Ricci S.",
+      "team": {
+        "name": "Torino",
+        "abbreviation": "tor"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 22,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Abraham",
+      "team": {
+        "name": "Milan",
+        "abbreviation": "mil"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 40,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Banda",
+      "team": {
+        "name": "Lecce",
+        "abbreviation": "lec"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 15,
+      "revenue": 0,
+      "status": 2,
+      "position": 11
+    },
+    {
+      "name": "Djuric",
+      "team": {
+        "name": "Parma",
+        "abbreviation": "par"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 30,
+      "revenue": 0,
+      "status": 0,
+      "position": 10
+    },
+    {
+      "name": "Kvaratskhelia",
+      "team": {
+        "name": "Napoli",
+        "abbreviation": "nap"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 240,
+      "revenue": 0,
+      "status": 1,
+      "position": 10
+    },
+    {
+      "name": "Martinez L.",
+      "team": {
+        "name": "Inter",
+        "abbreviation": "int"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 365,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Tengstedt",
+      "team": {
+        "name": "Verona",
+        "abbreviation": "ver"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 55,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Sherri",
+      "team": {
+        "name": "Cagliari",
+        "abbreviation": "cag"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 2,
+      "position": 11
+    },
+    {
+      "name": "Sherri",
+      "team": {
+        "name": "Cagliari",
+        "abbreviation": "cag"
+      },
+      "role": 0,
+      "isActive": true,
+      "visible": true,
+      "price": 0,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Celik",
+      "team": {
+        "name": "Roma",
+        "abbreviation": "rom"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Dominguez B.",
+      "team": {
+        "name": "Bologna",
+        "abbreviation": "bol"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 132,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Almqvist",
+      "team": {
+        "name": "Parma",
+        "abbreviation": "par"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 200,
+      "revenue": 0,
+      "status": 0,
+      "position": 9
+    }
+  ],
+  "moneyFromRank": 229,
+  "lastUpdate": "2025-04-27T11:02:25.6741985Z"
+}

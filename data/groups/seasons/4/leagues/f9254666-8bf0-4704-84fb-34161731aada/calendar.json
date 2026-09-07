@@ -1,0 +1,4723 @@
+{
+  "year": 4,
+  "rounds": {
+    "0": [
+      {
+        "serieADay": 3,
+        "number": 1,
+        "games": [
+          {
+            "id": "350d176c-0b16-491e-8079-217f41c484cc",
+            "number": 1,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "29466138-5383-42fd-93f6-291d791134a7",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "df603e38-a72f-4879-9c9f-2a2bd8ae8e85",
+            "number": 3,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 75.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "96187160-1a2b-4526-95fa-de221c5ddd8e",
+            "number": 4,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "72497a65-c22f-4341-9490-b9385c2755da",
+            "number": 5,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 4,
+        "number": 2,
+        "games": [
+          {
+            "id": "c8eec7a7-8b0b-4b19-889b-1f7e981a6a77",
+            "number": 1,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 59.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "b65ba41c-03a4-41a4-8723-2dff7cca296a",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Fossa dei Leoni",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "1884fc00-2344-4333-940c-e4684594d417",
+            "number": 3,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "a2bd0b8d-875e-4d9e-ba2e-79d42d4d8075",
+            "number": 4,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 74.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 58,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "0020266f-9804-46ae-b280-68165783c1c7",
+            "number": 5,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 79.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 5,
+        "number": 3,
+        "games": [
+          {
+            "id": "2be07c3e-90d5-4bfe-9a4d-f0e72bf71378",
+            "number": 1,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Le carogne",
+            "awayOwner": "alan",
+            "result": {
+              "home": {
+                "value": 60.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 80,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "0c4319ae-e5fd-4ca7-9cb5-2770a7d6068b",
+            "number": 2,
+            "home": "Sporting Pado",
+            "homeOwner": "danielec",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 53.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "4df9d8ec-c187-439f-959a-97671565c2ca",
+            "number": 3,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "37201dfb-c05e-4f07-ab4b-7b261cda60d1",
+            "number": 4,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "3d841b90-b720-4430-891c-d75b92426d22",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 6,
+        "number": 4,
+        "games": [
+          {
+            "id": "8ece9f60-7a71-43e9-ae92-56e71088c8f5",
+            "number": 1,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "9a041b1d-816e-44e5-905e-5dece7122384",
+            "number": 2,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "194b1564-3f4d-45ef-bedf-42393362821b",
+            "number": 3,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 54.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "4739dacd-058c-43c1-aa37-84d642bce67d",
+            "number": 4,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 59.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "579e0421-206d-438c-8830-e6cec4f10bf2",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 7,
+        "number": 5,
+        "games": [
+          {
+            "id": "613696b4-7627-4356-a57e-e66ebf9855cd",
+            "number": 1,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "9ca239c1-9997-49cf-9d69-fc17fa689355",
+            "number": 2,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "d275a03b-a9c2-4cf6-b637-c4d916142fe7",
+            "number": 3,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "092b5f3d-a931-48d4-929a-3ef2015a95d0",
+            "number": 4,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 50.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "56208e43-812f-42fa-a6c2-3875f3dbc1eb",
+            "number": 5,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 76.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 8,
+        "number": 6,
+        "games": [
+          {
+            "id": "36637abc-8104-4494-84af-b0c0742832ff",
+            "number": 1,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 76.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "973d96b3-1b57-4d3c-8e4c-84d6d8b3bf8e",
+            "number": 2,
+            "home": "Sporting Pado",
+            "homeOwner": "danielec",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "0ba333f1-8c87-425c-8ae3-0baba847f351",
+            "number": 3,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "63f221e3-79d9-4f5d-872a-cdfcaa436443",
+            "number": 4,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 45.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "dd8a7e24-6990-413c-8db7-07e6f997d92a",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 52.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 9,
+        "number": 7,
+        "games": [
+          {
+            "id": "6af60b2d-244a-4dd0-ba2a-9c0f274130b0",
+            "number": 1,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "b6502db8-ad03-4a22-b18b-e15080d17b6e",
+            "number": 2,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 56.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "3110ed40-c867-41c7-b1ac-0a66bd855b3b",
+            "number": 3,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 77.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 59,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "7a17d1bd-2634-437f-bb71-f57ae5dc311a",
+            "number": 4,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 80.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "b3322095-9403-408d-adda-0d271181dea0",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 10,
+        "number": 8,
+        "games": [
+          {
+            "id": "24e96227-704a-42f9-a413-879aad6ea829",
+            "number": 1,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "5a626808-0b08-439c-84b6-62c7e40e9107",
+            "number": 2,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "501c7438-3dbb-4977-9f90-151dc79b6ab6",
+            "number": 3,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "e5d35a65-d92d-4275-8640-8d92d91d8b13",
+            "number": 4,
+            "home": "THE MUPPETT SHOW",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "7bb3a6de-cd4c-4c77-9d11-2de2590c96d1",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 74.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 11,
+        "number": 9,
+        "games": [
+          {
+            "id": "8adcd2aa-d0fc-47d4-9978-9d9fd147aaf2",
+            "number": 1,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 59,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "16a6c47d-1eae-4133-b4d9-dd8e18ba0d90",
+            "number": 2,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "e48926d0-44ac-467c-8785-4a0f6518e01e",
+            "number": 3,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Le carogne",
+            "awayOwner": "alan",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 58.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "69d96632-1228-4050-bf2e-43d693588945",
+            "number": 4,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "c8a8787f-62ba-4ad9-8753-502bc0e1ded1",
+            "number": 5,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 59.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 75.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 12,
+        "number": 10,
+        "games": [
+          {
+            "id": "11111469-ee0f-4d96-8ce9-872c312a2ebb",
+            "number": 1,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "5d3aa741-c39c-4088-8e8a-a53be399dea6",
+            "number": 2,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 54.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "7869e8a2-fc06-4f93-b1c4-d2b58bc43c22",
+            "number": 3,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 52,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "04fa2a63-1d04-45dc-ab51-78d053ac992d",
+            "number": 4,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 77,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "a6784d47-7787-403e-8fa3-890ae0a6c06a",
+            "number": 5,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 60.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 13,
+        "number": 11,
+        "games": [
+          {
+            "id": "3caaf0c6-bdd6-4415-8a37-5f4f46990e1a",
+            "number": 1,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 75.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "743c44d4-7ac7-44d6-ad22-4b48af167981",
+            "number": 2,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 84,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 4
+            }
+          },
+          {
+            "id": "a9472dc8-cf3a-4de9-a56b-8e9b3099bf83",
+            "number": 3,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 59,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 50.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "f35f5ca2-c8df-4c80-be9e-6226db5fb1c5",
+            "number": 4,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 61,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "1f815a5e-8ee0-49a2-ad22-e5b8a582da2e",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Fossa dei Leoni",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 14,
+        "number": 12,
+        "games": [
+          {
+            "id": "c3ff2aa0-8daf-41f9-87fe-f2dd8b3baf22",
+            "number": 1,
+            "home": "Sporting Pado",
+            "homeOwner": "danielec",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 58.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "75ae172f-511f-4deb-b21a-c78c4a026f9f",
+            "number": 2,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 56.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "583b95f2-bc59-4c28-ac29-01ca2b66c7c7",
+            "number": 3,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 55,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "036eb769-a13c-488e-9b91-a845b446802f",
+            "number": 4,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Le carogne",
+            "awayOwner": "alan",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "4b4e9454-104b-4af3-8f90-c5c948873459",
+            "number": 5,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 15,
+        "number": 13,
+        "games": [
+          {
+            "id": "51de68db-5695-460d-83f6-1b17dcce0738",
+            "number": 1,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "538b6726-5b26-481e-a463-6fabe69d8cf3",
+            "number": 2,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "9992ece8-5d51-4283-a59d-6f80693d6945",
+            "number": 3,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 59,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "895ad175-997d-45a9-9d1a-62542a678491",
+            "number": 4,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 58,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "14b5b1d6-2605-4ccb-8f1d-3e0bed3d27db",
+            "number": 5,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 85,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 4
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 16,
+        "number": 14,
+        "games": [
+          {
+            "id": "4d5aefd4-05f2-490c-88ca-b1a25da634a1",
+            "number": 1,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 82.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "5387769d-1ae2-4069-afc6-9ecb9221ee47",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "4a41175e-8d2a-49c0-a200-4e7ad802694a",
+            "number": 3,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 57.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "f2da27a1-f2c4-444c-b310-a05950fe76e0",
+            "number": 4,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 75,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "ff5d4f96-900e-4094-827e-d31d8a85c641",
+            "number": 5,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 79,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 17,
+        "number": 15,
+        "games": [
+          {
+            "id": "4aeb80b4-3473-4d63-bfb9-8a8678cdb8c7",
+            "number": 1,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 58.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "a0118413-2852-4a18-b48d-331271b9ac7a",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "de6ee8db-da98-4200-b8b8-8c22ac708e04",
+            "number": 3,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 80,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "cb4ffc78-8130-4dfe-b8b7-24118966c617",
+            "number": 4,
+            "home": "Sporting Pado",
+            "homeOwner": "danielec",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "ebf67903-9a28-4bfb-8a95-c1b048db76c9",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 18,
+        "number": 16,
+        "games": [
+          {
+            "id": "cc522e21-d64c-4285-b241-769d74cae183",
+            "number": 1,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 75,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "620e1d6d-d514-469e-bafc-3ea709f4542a",
+            "number": 2,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "714d1aa5-9b47-412b-b399-487968aa6a9e",
+            "number": 3,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 75,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 57.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "a7b9be2a-20e9-47e5-968f-6ef60e8dcb50",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 78,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "a31c56c3-29e7-4097-8754-ae6cbe7a1d2d",
+            "number": 5,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 76.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 19,
+        "number": 17,
+        "games": [
+          {
+            "id": "fd890f84-26ea-4271-bd2f-82593499f367",
+            "number": 1,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 80.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "5b14c688-5641-413e-b384-da38fa1221ab",
+            "number": 2,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "b13393e9-d90f-4210-86d6-9205bdd4001a",
+            "number": 3,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "845a159a-5e64-4ba9-aecf-9ccfb72ca5a0",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "cd5f3586-fcc8-4b06-a3a4-1fa44c7979b5",
+            "number": 5,
+            "home": "THE MUPPETT SHOW",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 55.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 20,
+        "number": 18,
+        "games": [
+          {
+            "id": "214bdb61-f15e-4a8a-801c-d501fb5c09ef",
+            "number": 1,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "4f0d8c60-b395-4590-922d-522fef5dc0ef",
+            "number": 2,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 59.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 51.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "cb78c23b-6a02-4093-be56-af2ed39b32a1",
+            "number": 3,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 75,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "fa80e438-2df3-4730-a95a-6ec62014b670",
+            "number": 4,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 54.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "3cdaf3de-1546-4bba-9061-36561696883b",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Le carogne",
+            "awayOwner": "alan",
+            "result": {
+              "home": {
+                "value": 82,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 21,
+        "number": 19,
+        "games": [
+          {
+            "id": "21051caf-ee47-40c1-9365-dfd601f74cac",
+            "number": 1,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "3957b7f8-fdce-4e99-83b2-1b6bc6db6f7c",
+            "number": 2,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 79.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "d8fe524a-e99e-4c08-ac31-1b9f3629a953",
+            "number": 3,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 50.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "4f1db202-1911-4bfd-a581-b63bdc7c45bb",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 57,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "cd514777-8fc7-42b5-a1cc-cbbb807b052d",
+            "number": 5,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 76.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 22,
+        "number": 20,
+        "games": [
+          {
+            "id": "b0b2c817-8125-498c-abde-15a2b4e09f3b",
+            "number": 1,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 53.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 56,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "3132b6e7-05e7-437d-a160-a7e055e29279",
+            "number": 2,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "3387b6bc-89a0-4e7a-a8ed-4c6f2e428d6e",
+            "number": 3,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "617efde2-f039-4647-baaa-37ba51966afa",
+            "number": 4,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "6fcc0abc-b3ca-48d7-a5a6-97f9f01d060e",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Fossa dei Leoni",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 75,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 23,
+        "number": 21,
+        "games": [
+          {
+            "id": "c66fcbb8-a13e-4b83-b9c0-c66725a44387",
+            "number": 1,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 61,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "c485f00c-93a4-4a8b-ba5f-2715a2c440c1",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 56.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "20c00f02-7f3e-4bdf-b2f0-1dc44d2c7246",
+            "number": 3,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "ed7915ae-fbcb-4c9a-932a-2c3f564cf2a0",
+            "number": 4,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Le carogne",
+            "awayOwner": "alan",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "6602298c-5cb5-4325-ba55-7c5e7ac2a3f0",
+            "number": 5,
+            "home": "Sporting Pado",
+            "homeOwner": "danielec",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 24,
+        "number": 22,
+        "games": [
+          {
+            "id": "abfbdf48-0973-4ba7-bde9-67d7cf1d4cea",
+            "number": 1,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 56,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "36a8341e-ee10-43c9-bf16-b0d4309a6dbb",
+            "number": 2,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 51.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "b1d622d2-1071-49eb-851e-dfc7a3d3642f",
+            "number": 3,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 48.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "40bbf9be-6f0f-40ec-aa2a-34dc445dddff",
+            "number": 4,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 53,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "12ec42b5-f2b7-4ca8-aa19-560f7b6ab6d8",
+            "number": 5,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 74.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 25,
+        "number": 23,
+        "games": [
+          {
+            "id": "af8e7e1d-0b1a-4fd8-be5a-2d9d8789376b",
+            "number": 1,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "f839965d-2920-4205-a52f-84abf87bf248",
+            "number": 2,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 75,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "b8fa08ec-279f-4f20-95ce-29b0974879dc",
+            "number": 3,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "2a0151c8-8535-46a7-8aa7-dace2506eab7",
+            "number": 4,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "3fd2df82-8da7-40ea-9ca4-22cad9dc9f36",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 26,
+        "number": 24,
+        "games": [
+          {
+            "id": "bf148b90-eb59-47fc-b729-482aecbf88d1",
+            "number": 1,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "e7fb413b-63dc-4130-9d53-fe6a014332d0",
+            "number": 2,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 53.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "b5be9edc-3380-4c34-a9ca-c7bda47c159d",
+            "number": 3,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "9b673240-a999-49e7-881d-891cf4dde315",
+            "number": 4,
+            "home": "Sporting Pado",
+            "homeOwner": "danielec",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 78,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "415d88ad-bb51-4b6a-9aa7-d524d25b97cd",
+            "number": 5,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 84.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 77,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 27,
+        "number": 25,
+        "games": [
+          {
+            "id": "1bedea00-3a41-4808-bbdd-2652820451c6",
+            "number": 1,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "3627e22e-1b7d-4998-b5ab-f0fb8ef90e17",
+            "number": 2,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "a3947a34-344c-4cc1-9367-e98a08211968",
+            "number": 3,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 72,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "3cbd5d08-9c84-4df2-bcba-fc1d3b83c5e7",
+            "number": 4,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 62,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "9a2dfb8a-eeed-4f66-9aa3-bb7d202a81d8",
+            "number": 5,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 74.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 59,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 28,
+        "number": 26,
+        "games": [
+          {
+            "id": "715b2ead-a69c-4f59-bc92-c6365cd02c54",
+            "number": 1,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 82,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 59,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "86932353-ea5a-4ac2-8425-05623a6c14ee",
+            "number": 2,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 61,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "56004321-ae36-412a-879e-da9fc8eb28a3",
+            "number": 3,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 77,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "8185fc6f-a1e7-424d-9962-ab1fb8c338b7",
+            "number": 4,
+            "home": "THE MUPPETT SHOW",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 74,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "ecd5ed41-3036-492c-a59c-9a2fd8f6b4a9",
+            "number": 5,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 29,
+        "number": 27,
+        "games": [
+          {
+            "id": "8d58683f-368b-4db4-a501-c16111c698ba",
+            "number": 1,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "01bf69ce-948b-4cac-ad81-a352bde7d9d3",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Le carogne",
+            "awayOwner": "alan",
+            "result": {
+              "home": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "5cb38044-15ff-4ac5-ba8d-344aefcf3371",
+            "number": 3,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 59.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "ebc2f3ca-e335-4bd2-a1f4-8d327cf74448",
+            "number": 4,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "e0414222-d8cd-41fe-926d-14b0fdc07ed4",
+            "number": 5,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 74.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 30,
+        "number": 28,
+        "games": [
+          {
+            "id": "d76f5b3d-8e4f-4488-9356-25e4833babf6",
+            "number": 1,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "abb1e264-f6b6-4aaa-849e-917fc31f4ad8",
+            "number": 2,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 77.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "9d83defe-9626-48c3-85d3-23ba443f52d1",
+            "number": 3,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "8ba37870-4875-48c3-aafe-82f94112fe9a",
+            "number": 4,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 74.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "211ae2db-3fdc-40c6-ba0d-f8e30537cfa9",
+            "number": 5,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 31,
+        "number": 29,
+        "games": [
+          {
+            "id": "3810ec31-c5de-490a-8d0c-4b2d203a5e49",
+            "number": 1,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 54.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "c4cd1949-23d4-4428-a9b2-8aeb1e6411f5",
+            "number": 2,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 82.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "17877efb-7905-4679-af51-3d1513e14f24",
+            "number": 3,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Fossa dei Leoni",
+            "awayOwner": "lucamar88",
+            "result": {
+              "home": {
+                "value": 80.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 75,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "7b44bbe2-8de5-46e4-ab26-beb8aa1b6eb4",
+            "number": 4,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "4d512908-3d88-43fd-a035-674886817e16",
+            "number": 5,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 67,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 32,
+        "number": 30,
+        "games": [
+          {
+            "id": "aaf1be16-a8c7-47b2-aca0-b32aa26b863c",
+            "number": 1,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 47,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "bec8a871-d73b-428a-843f-76dd210be0b9",
+            "number": 2,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Le carogne",
+            "awayOwner": "alan",
+            "result": {
+              "home": {
+                "value": 75,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 77,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "14302fd5-9263-4851-a87a-280d57c53301",
+            "number": 3,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 63.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 76,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "513360e5-c201-4fe2-aa48-34c7f6a7d0d7",
+            "number": 4,
+            "home": "Sporting Pado",
+            "homeOwner": "danielec",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "0f3a029e-5c39-4338-be17-2c57b7048bde",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 33,
+        "number": 31,
+        "games": [
+          {
+            "id": "ccff2efb-bf9b-49d4-8394-144b5fafbc42",
+            "number": 1,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "a2a5b698-37f3-4c1e-b41d-8ab96a0d43e2",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 70,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 56.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "9c1ab633-4236-4803-a095-6a2c8619e64e",
+            "number": 3,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 83,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 54.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "f484ae23-8dc0-43f0-91d2-67bed7a8831b",
+            "number": 4,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 64.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "8a1b3dfb-8931-4e13-8966-68ed63bb4706",
+            "number": 5,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 34,
+        "number": 32,
+        "games": [
+          {
+            "id": "20e101c4-8b21-490c-933c-c1eb765525a7",
+            "number": 1,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 55,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "fe66b009-8378-47ed-bb3e-00724a31eea3",
+            "number": 2,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "f6f7d8be-917a-492a-b020-790ba4dbce1d",
+            "number": 3,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 74.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 57,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "1a5171c3-2d65-4b05-b69f-662fd3e8c913",
+            "number": 4,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 78.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "643b34d0-5ff7-4a4c-8ee9-7cc1d52859db",
+            "number": 5,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 52,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 57,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 35,
+        "number": 33,
+        "games": [
+          {
+            "id": "28de9862-b257-46e7-a78e-214600045962",
+            "number": 1,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "1b7e51b7-2060-4ec8-99ed-a2897fa776f4",
+            "number": 2,
+            "home": "Sporting Pado",
+            "homeOwner": "danielec",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 65.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "c91a90de-88d1-408b-b37d-c2497539788a",
+            "number": 3,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 77,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 59.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "951b1ccc-7cc2-45ac-b68a-75073fcbd7fb",
+            "number": 4,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 76.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "f33010a7-1439-4df9-a5dd-04a6fcde7d9e",
+            "number": 5,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 66.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 36,
+        "number": 34,
+        "games": [
+          {
+            "id": "982207e3-b9a5-45de-a89b-319c0f72cd37",
+            "number": 1,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 65,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 75.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "3aa44d6a-23bc-404a-bf75-fcc8ccd393d2",
+            "number": 2,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 56,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "8342bf98-6e3e-416b-884b-fde01f34a4f0",
+            "number": 3,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "6a14b57a-8d05-409b-bb35-f45202f15e8c",
+            "number": 4,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 54.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "504627b3-0dff-4253-bb40-0a071171f6af",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 71.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 37,
+        "number": 35,
+        "games": [
+          {
+            "id": "5b043d84-804b-4173-a268-a1adf4f8bf4d",
+            "number": 1,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "notNaVi",
+            "awayOwner": "GjRud",
+            "result": {
+              "home": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 72.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
+          },
+          {
+            "id": "ef082687-4788-439b-84ae-4f10c57d4c89",
+            "number": 2,
+            "home": "Le carogne",
+            "homeOwner": "alan",
+            "away": "Real Bucarozza",
+            "awayOwner": "Eloreden",
+            "result": {
+              "home": {
+                "value": 61.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 57,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "8eb30ef2-9495-414e-9e0c-a5b27e406da5",
+            "number": 3,
+            "home": "THE MUPPETT SHOW",
+            "homeOwner": "federicomartelloni@gmail.com",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 76,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 62,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "c29e639a-50b1-42ae-b16b-c6fd7c429187",
+            "number": 4,
+            "home": "Real Gradolese",
+            "homeOwner": "Barzi",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 64,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 68,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "6aedc22d-246d-48df-8f6b-686b34422dd2",
+            "number": 5,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Los Scandalos",
+            "awayOwner": "crostafabio87@gmail.com",
+            "result": {
+              "home": {
+                "value": 70.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 71,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 1
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 38,
+        "number": 36,
+        "games": [
+          {
+            "id": "3604d7d2-2217-4a86-90be-9b55d3a004de",
+            "number": 1,
+            "home": "Fossa dei Leoni",
+            "homeOwner": "lucamar88",
+            "away": "Tigers Reloaded",
+            "awayOwner": "Frank Sinatra",
+            "result": {
+              "home": {
+                "value": 62.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 59,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "6167ab9d-5df4-45fa-88cb-fe6a6726d558",
+            "number": 2,
+            "home": "A.C. Ofeca",
+            "homeOwner": "lorenzo.catarcia@gmail.com",
+            "away": "Le carogne",
+            "awayOwner": "alan",
+            "result": {
+              "home": {
+                "value": 67.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 86,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 1,
+              "awayGoals": 4
+            }
+          },
+          {
+            "id": "62ff7492-6caf-44e8-955a-ab4ebde2a836",
+            "number": 3,
+            "home": "notNaVi",
+            "homeOwner": "GjRud",
+            "away": "Sporting Pado",
+            "awayOwner": "danielec",
+            "result": {
+              "home": {
+                "value": 82.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 79.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 3
+            }
+          },
+          {
+            "id": "63f7c291-4fb3-474a-af39-6319b9893355",
+            "number": 4,
+            "home": "Real Bucarozza",
+            "homeOwner": "Eloreden",
+            "away": "THE MUPPETT SHOW",
+            "awayOwner": "federicomartelloni@gmail.com",
+            "result": {
+              "home": {
+                "value": 58,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 69.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 1
+            }
+          },
+          {
+            "id": "fa382502-1c93-4dea-be35-154fed091f9e",
+            "number": 5,
+            "home": "Los Scandalos",
+            "homeOwner": "crostafabio87@gmail.com",
+            "away": "Real Gradolese",
+            "awayOwner": "Barzi",
+            "result": {
+              "home": {
+                "value": 63,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 0,
+              "awayGoals": 2
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

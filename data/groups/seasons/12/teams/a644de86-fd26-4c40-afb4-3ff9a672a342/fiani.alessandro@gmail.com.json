@@ -1,0 +1,192 @@
+{
+  "version": 3,
+  "name": "Cavoni United",
+  "owner": "fiani.alessandro@gmail.com",
+  "additionalOwners": [],
+  "players": [
+    {
+      "playerKey": "radunovic",
+      "price": 11,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "silvestri",
+      "price": 23,
+      "revenue": 0,
+      "status": 0,
+      "position": 4
+    },
+    {
+      "playerKey": "milinkovicsavicv",
+      "price": 36,
+      "revenue": 0,
+      "status": 0,
+      "position": 0
+    },
+    {
+      "playerKey": "dawidowicz",
+      "price": 3,
+      "revenue": 0,
+      "status": 0,
+      "position": 6
+    },
+    {
+      "playerKey": "dragusin",
+      "price": 9,
+      "revenue": 0,
+      "status": 1,
+      "position": 1
+    },
+    {
+      "playerKey": "gendrey",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 5
+    },
+    {
+      "playerKey": "izzo",
+      "price": 10,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "playerKey": "kristiansen",
+      "price": 20,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "playerKey": "perezn",
+      "price": 13,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "playerKey": "ranieril",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "romagnoli",
+      "price": 20,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "playerKey": "rabiot",
+      "price": 80,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "playerKey": "ramadani",
+      "price": 6,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "playerKey": "zielinski",
+      "price": 95,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "playerKey": "badelj",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 8
+    },
+    {
+      "playerKey": "ciurria",
+      "price": 36,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "gagliardini",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 7
+    },
+    {
+      "playerKey": "kamada",
+      "price": 53,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "politano",
+      "price": 13,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "playerKey": "bonazzoli",
+      "price": 36,
+      "revenue": 0,
+      "status": 0,
+      "position": 9
+    },
+    {
+      "playerKey": "caputo",
+      "price": 11,
+      "revenue": 0,
+      "status": 0,
+      "position": 10
+    },
+    {
+      "playerKey": "deulofeu",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "giroud",
+      "price": 231,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "playerKey": "immobile",
+      "price": 271,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "playerKey": "petagna",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "martinezquarta",
+      "price": 40,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    }
+  ],
+  "moneyFromRank": 152,
+  "lastUpdate": null
+}

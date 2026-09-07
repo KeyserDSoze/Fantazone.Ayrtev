@@ -1,0 +1,5148 @@
+{
+  "recordGame": {
+    "game": {
+      "id": "65325371-b177-4266-8140-2f5db824f2f3",
+      "number": 6,
+      "home": "Longobarda 5 5 5",
+      "homeOwner": "federicomartelloni@gmail.com",
+      "away": "Deportivo la Scalogna",
+      "awayOwner": "daniele.fetoni@hotmail.it",
+      "result": {
+        "home": {
+          "value": 83.5,
+          "defensiveBonus": true,
+          "goodPeople": false,
+          "ownGoal": false
+        },
+        "away": {
+          "value": 110,
+          "defensiveBonus": true,
+          "goodPeople": false,
+          "ownGoal": false
+        },
+        "isCancelled": false,
+        "homeGoals": 3,
+        "awayGoals": 8
+      }
+    },
+    "year": 13
+  },
+  "recordPlayer": null,
+  "playerWithMostPointsInYear": null,
+  "winningPlayers": [
+    {
+      "player": {
+        "name": "Provedel",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 51,
+        "revenue": 0,
+        "status": 0,
+        "position": 0
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Suzuki",
+        "team": {
+          "name": "Parma",
+          "abbreviation": "par"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 6,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Ostigard",
+        "team": {
+          "name": "Genoa",
+          "abbreviation": "gen"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 3,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Pavlovic",
+        "team": {
+          "name": "Milan",
+          "abbreviation": "mil"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 20,
+        "revenue": 0,
+        "status": 0,
+        "position": 1
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Rrahmani",
+        "team": {
+          "name": "Napoli",
+          "abbreviation": "nap"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 35,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          14,
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Valeri",
+        "team": {
+          "name": "Parma",
+          "abbreviation": "par"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 31,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Zortea",
+        "team": {
+          "name": "Bologna",
+          "abbreviation": "bol"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 27,
+        "revenue": 0,
+        "status": 0,
+        "position": 1
+      },
+      "wins": {
+        "@": [
+          14,
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Canestrelli",
+        "team": {
+          "name": "Pisa",
+          "abbreviation": "pis"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 6
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Dimarco",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 60,
+        "revenue": 0,
+        "status": 0,
+        "position": 1
+      },
+      "wins": {
+        "@": [
+          14,
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Lazaro",
+        "team": {
+          "name": "Torino",
+          "abbreviation": "tor"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 5
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Harroui",
+        "team": {
+          "name": "Verona",
+          "abbreviation": "ver"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 28,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Isaksen",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 60,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Odgaard",
+        "team": {
+          "name": "Bologna",
+          "abbreviation": "bol"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 59,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Pulisic",
+        "team": {
+          "name": "Milan",
+          "abbreviation": "mil"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 210,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Serdar",
+        "team": {
+          "name": "Verona",
+          "abbreviation": "ver"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 7
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Zerbin",
+        "team": {
+          "name": "Cremonese",
+          "abbreviation": "cre"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Adopo",
+        "team": {
+          "name": "Cagliari",
+          "abbreviation": "cag"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Pedro",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 3,
+        "revenue": 0,
+        "status": 0,
+        "position": 3
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Yildiz",
+        "team": {
+          "name": "Juventus",
+          "abbreviation": "juv"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 93,
+        "revenue": 0,
+        "status": 0,
+        "position": 3
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Sanabria",
+        "team": {
+          "name": "Cremonese",
+          "abbreviation": "cre"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 93,
+        "revenue": 0,
+        "status": 0,
+        "position": 10
+      },
+      "wins": {
+        "@": [
+          14,
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Nzola",
+        "team": {
+          "name": "Sassuolo",
+          "abbreviation": "sas"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 31,
+        "revenue": 0,
+        "status": 0,
+        "position": 9
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Motta",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Taylor K.",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 48,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Malen",
+        "team": {
+          "name": "Roma",
+          "abbreviation": "rom"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 261,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Boga",
+        "team": {
+          "name": "Juventus",
+          "abbreviation": "juv"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 21,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Skorupski",
+        "team": {
+          "name": "Bologna",
+          "abbreviation": "bol"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 0
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Vasquez D.",
+        "team": {
+          "name": "Empoli",
+          "abbreviation": "emp"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 23,
+        "revenue": 0,
+        "status": 0,
+        "position": 4
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Dodo",
+        "team": {
+          "name": "Fiorentina",
+          "abbreviation": "fio"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 26,
+        "revenue": 0,
+        "status": 0,
+        "position": 1
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Posch",
+        "team": {
+          "name": "Atalanta",
+          "abbreviation": "ata"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 18,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Bastoni",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 32,
+        "revenue": 0,
+        "status": 0,
+        "position": 1
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Beukema",
+        "team": {
+          "name": "Bologna",
+          "abbreviation": "bol"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 8,
+        "revenue": 0,
+        "status": 0,
+        "position": 5
+      },
+      "wins": {
+        "@": [
+          13,
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Ismajli",
+        "team": {
+          "name": "Empoli",
+          "abbreviation": "emp"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 3,
+        "revenue": 0,
+        "status": 0,
+        "position": 1
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Conceicao",
+        "team": {
+          "name": "Juventus",
+          "abbreviation": "juv"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 30,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Pasalic",
+        "team": {
+          "name": "Atalanta",
+          "abbreviation": "ata"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 31,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          13,
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "De Roon",
+        "team": {
+          "name": "Atalanta",
+          "abbreviation": "ata"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 3,
+        "revenue": 0,
+        "status": 0,
+        "position": 7
+      },
+      "wins": {
+        "@": [
+          13,
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Tete Morente",
+        "team": {
+          "name": "Lecce",
+          "abbreviation": "lec"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 12,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Strefezza",
+        "team": {
+          "name": "Como",
+          "abbreviation": "com"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 80,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Fagioli",
+        "team": {
+          "name": "Fiorentina",
+          "abbreviation": "fio"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 8
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Martinez L.",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 360,
+        "revenue": 0,
+        "status": 0,
+        "position": 3
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Thauvin",
+        "team": {
+          "name": "Udinese",
+          "abbreviation": "udi"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 35,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Krstovic",
+        "team": {
+          "name": "Lecce",
+          "abbreviation": "lec"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 30,
+        "revenue": 0,
+        "status": 0,
+        "position": 9
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Gudmundsson A.",
+        "team": {
+          "name": "Fiorentina",
+          "abbreviation": "fio"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 108,
+        "revenue": 0,
+        "status": 0,
+        "position": 3
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "De Ketelaere",
+        "team": {
+          "name": "Atalanta",
+          "abbreviation": "ata"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 112,
+        "revenue": 0,
+        "status": 0,
+        "position": 3
+      },
+      "wins": {
+        "@": [
+          13,
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Leali",
+        "team": {
+          "name": "Genoa",
+          "abbreviation": "gen"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 4,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Kalulu",
+        "team": {
+          "name": "Juventus",
+          "abbreviation": "juv"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 6,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          13,
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Diao",
+        "team": {
+          "name": "Como",
+          "abbreviation": "com"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 180,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Weah",
+        "team": {
+          "name": "Juventus",
+          "abbreviation": "juv"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 65,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Sarr A.",
+        "team": {
+          "name": "Verona",
+          "abbreviation": "ver"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 61,
+        "revenue": 0,
+        "status": 0,
+        "position": 10
+      },
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Sommer",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 93,
+        "revenue": 0,
+        "status": 0,
+        "position": 0
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Audero",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 3,
+        "revenue": 0,
+        "status": 0,
+        "position": 4
+      },
+      "wins": {
+        "@": [
+          12,
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Caprile",
+        "team": {
+          "name": "Empoli",
+          "abbreviation": "emp"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Di Lorenzo",
+        "team": {
+          "name": "Napoli",
+          "abbreviation": "nap"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 78,
+        "revenue": 0,
+        "status": 0,
+        "position": 1
+      },
+      "wins": {
+        "@": [
+          12,
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Pongracic",
+        "team": {
+          "name": "Lecce",
+          "abbreviation": "lec"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 6
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Scalvini",
+        "team": {
+          "name": "Atalanta",
+          "abbreviation": "ata"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 20,
+        "revenue": 0,
+        "status": 0,
+        "position": 1
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Acerbi",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 7,
+        "revenue": 0,
+        "status": 0,
+        "position": 5
+      },
+      "wins": {
+        "@": [
+          12,
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Biraghi",
+        "team": {
+          "name": "Fiorentina",
+          "abbreviation": "fio"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 20,
+        "revenue": 0,
+        "status": 0,
+        "position": 1
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Bajrami",
+        "team": {
+          "name": "Sassuolo",
+          "abbreviation": "sas"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 21,
+        "revenue": 0,
+        "status": 0,
+        "position": 8
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Colpani",
+        "team": {
+          "name": "Monza",
+          "abbreviation": "mon"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 40,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Felipe Anderson",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 95,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Lindstrom",
+        "team": {
+          "name": "Napoli",
+          "abbreviation": "nap"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 12,
+        "revenue": 0,
+        "status": 0,
+        "position": 7
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Loftus-Cheek",
+        "team": {
+          "name": "Milan",
+          "abbreviation": "mil"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 28,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Mckennie",
+        "team": {
+          "name": "Juventus",
+          "abbreviation": "juv"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Zirkzee",
+        "team": {
+          "name": "Bologna",
+          "abbreviation": "bol"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 68,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Beltran L.",
+        "team": {
+          "name": "Fiorentina",
+          "abbreviation": "fio"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 11,
+        "revenue": 0,
+        "status": 0,
+        "position": 9
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Dia",
+        "team": {
+          "name": "Salernitana",
+          "abbreviation": "sal"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 41,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Dybala",
+        "team": {
+          "name": "Roma",
+          "abbreviation": "rom"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 182,
+        "revenue": 0,
+        "status": 0,
+        "position": 3
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Scamacca",
+        "team": {
+          "name": "Atalanta",
+          "abbreviation": "ata"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 254,
+        "revenue": 0,
+        "status": 0,
+        "position": 3
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Buongiorno",
+        "team": {
+          "name": "Torino",
+          "abbreviation": "tor"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 41,
+        "revenue": 0,
+        "status": 0,
+        "position": 1
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Miranchuk",
+        "team": {
+          "name": "Atalanta",
+          "abbreviation": "ata"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 105,
+        "revenue": 0,
+        "status": 0,
+        "position": 2
+      },
+      "wins": {
+        "@": [
+          12,
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Chukwueze",
+        "team": {
+          "name": "Milan",
+          "abbreviation": "mil"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Arnautovic",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 101,
+        "revenue": 0,
+        "status": 0,
+        "position": 10
+      },
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Consigli",
+        "team": {
+          "name": "Sassuolo",
+          "abbreviation": "sas"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 35,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11,
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Gollini",
+        "team": {
+          "name": "Napoli",
+          "abbreviation": "nap"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 20,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Rogerio",
+        "team": {
+          "name": "Sassuolo",
+          "abbreviation": "sas"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 6,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11,
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Spinazzola",
+        "team": {
+          "name": "Roma",
+          "abbreviation": "rom"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 45,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Augello",
+        "team": {
+          "name": "Sampdoria",
+          "abbreviation": "sam"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 10,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Danilo",
+        "team": {
+          "name": "Juve",
+          "abbreviation": "juv"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 27,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11,
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Gosens",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 8,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Lazzari",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 10,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Kostic",
+        "team": {
+          "name": "Juve",
+          "abbreviation": "juv"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 45,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Miguel Veloso",
+        "team": {
+          "name": "Verona",
+          "abbreviation": "ver"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Orsolini",
+        "team": {
+          "name": "Bologna",
+          "abbreviation": "bol"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 15,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Politano",
+        "team": {
+          "name": "Napoli",
+          "abbreviation": "nap"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 90,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Calhanoglu",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 55,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Pessina",
+        "team": {
+          "name": "Monza",
+          "abbreviation": "mon"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Muriel",
+        "team": {
+          "name": "Atalanta",
+          "abbreviation": "ata"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 35,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11,
+          9,
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Osimhen",
+        "team": {
+          "name": "Napoli",
+          "abbreviation": "nap"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 270,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Raspadori",
+        "team": {
+          "name": "Napoli",
+          "abbreviation": "nap"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 60,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Lasagna",
+        "team": {
+          "name": "Verona",
+          "abbreviation": "ver"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 5,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Pegolo",
+        "team": {
+          "name": "Sassuolo",
+          "abbreviation": "sas"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Ceccherini",
+        "team": {
+          "name": "Verona",
+          "abbreviation": "ver"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 8,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "El Shaarawy",
+        "team": {
+          "name": "Roma",
+          "abbreviation": "rom"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 75,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11,
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Shomurodov",
+        "team": {
+          "name": "Spezia",
+          "abbreviation": "spe"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Gonzalez N.",
+        "team": {
+          "name": "Fiorentina",
+          "abbreviation": "fio"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 121,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Ospina",
+        "team": {
+          "name": "Napoli",
+          "abbreviation": "nap"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 10,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Reina",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 60,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10,
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Strakosha",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10,
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Caldara",
+        "team": {
+          "name": "Venezia",
+          "abbreviation": "ven"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 5,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Colley",
+        "team": {
+          "name": "Sampdoria",
+          "abbreviation": "sam"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 8,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Cuadrado",
+        "team": {
+          "name": "Juve",
+          "abbreviation": "juv"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 90,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Hysaj",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 13,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Luiz-Felipe",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Marusic",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 5,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Saelemaekers",
+        "team": {
+          "name": "Milan",
+          "abbreviation": "mil"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 40,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Tonali",
+        "team": {
+          "name": "Milan",
+          "abbreviation": "mil"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 25,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10,
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Zambo-Anguissa",
+        "team": {
+          "name": "Napoli",
+          "abbreviation": "nap"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Barella",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 105,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Lukic",
+        "team": {
+          "name": "Torino",
+          "abbreviation": "tor"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Milinkovic-Savic",
+        "team": {
+          "name": "Lazio",
+          "abbreviation": "laz"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 100,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Caicedo",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 68,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10,
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Giroud",
+        "team": {
+          "name": "Milan",
+          "abbreviation": "mil"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 125,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Ilicic",
+        "team": {
+          "name": "Atalanta",
+          "abbreviation": "ata"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 40,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Joao-Pedro",
+        "team": {
+          "name": "Cagliari",
+          "abbreviation": "cag"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 180,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10,
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Mertens",
+        "team": {
+          "name": "Napoli",
+          "abbreviation": "nap"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 40,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Sanchez",
+        "team": {
+          "name": "Inter",
+          "abbreviation": "int"
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Theate",
+        "team": {
+          "name": "Bologna",
+          "abbreviation": "bol"
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 70,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Sensi",
+        "team": {
+          "name": "Sampdoria",
+          "abbreviation": "sam"
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 100,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Donnarumma-G",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 60,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9,
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Hakimi",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 70,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Koulibaly",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 45,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9,
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Young",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 21,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Djimsiti",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Faraoni",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 18,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Luis-Alberto",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 121,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Tameze",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Candreva",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 21,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Diaz-B",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 5,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Sottil",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Lozano",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 31,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Messias",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 11,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Berardi",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 61,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Simy",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 26,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Karsdorp",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 51,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Singo",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 12,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Pobega",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 19,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Thorsby",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 21,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Destro",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 300,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          9,
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Sirigu",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 109,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8,
+          7,
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Ujkani",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Rosati",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Biraschi",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "De Ligt",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 51,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Hernandez T",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 20,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Lirola",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 18,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8,
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Bennacer",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 17,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Berenguer",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 5,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Mkhitaryan",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 101,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Pulgar",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 46,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Ruiz",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 116,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Immobile",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 300,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Petagna",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 50,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Vlahovic",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Sabelli",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Kyriakopoulos",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Castillejo",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Cutrone",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 215,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          8,
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "N'koulou",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 40,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7,
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Rossettini",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 22,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Vicari",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 9,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "De silvestri",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 28,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Izzo",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Iacoponi",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Verdi",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 12,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Benassi",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 32,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Brozovic",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 46,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Cristante",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 28,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Douglas costa",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 92,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7,
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Khedira",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 40,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7,
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Lazzari m",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 21,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Zapata d",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 86,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7,
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Iago falque",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 46,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "La gumina",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 4,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Quagliarella",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 202,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Maksimovic",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 26,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Traore' hj",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Siligardi",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 6,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Cordaz",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 2,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6,
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Cragno",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 2,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Albiol",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 25,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Benatia",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 18,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Cacciatore",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 8,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6,
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Jankto",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 25,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Parolo",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 25,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Taarabt",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 20,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Kurtic",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 40,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Lapadula",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 60,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Chiriches",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Tonelli",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Bani",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Guilherme",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 36,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Antenucci",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 292,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Gabriel",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 0,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Bruno alves",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 14,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Costa",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 1,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "D'ambrosio",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 4,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Emerson",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 5,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Gastaldello",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 6,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Rodriguez go",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 37,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Romagnoli a",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 1,
+        "isActive": true,
+        "visible": true,
+        "price": 7,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Badu",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 29,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Bernardeschi",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 41,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Birsa",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 52,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Joao mario",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 40,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Kessie'",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 15,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Laxalt",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 15,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Perisic",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 92,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Viviani",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 2,
+        "isActive": true,
+        "visible": true,
+        "price": 3,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Bacca",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 275,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Defrel",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 66,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Insigne",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 75,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Palladino",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 12,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Paloschi",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 135,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    },
+    {
+      "player": {
+        "name": "Totti",
+        "team": {
+          "name": "",
+          "abbreviation": ""
+        },
+        "role": 3,
+        "isActive": true,
+        "visible": true,
+        "price": 15,
+        "revenue": 0,
+        "status": 0,
+        "position": 11
+      },
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    }
+  ],
+  "winningTeams": [
+    {
+      "owner": "fiani.alessandro@gmail.com",
+      "teamName": "Cavoni United",
+      "wins": {
+        "@": [
+          14
+        ]
+      }
+    },
+    {
+      "owner": "christian.lucaccioni@outlook.it",
+      "teamName": "Ombronese",
+      "wins": {
+        "@": [
+          13
+        ]
+      }
+    },
+    {
+      "owner": "nicosia.andrea99@gmail.com",
+      "teamName": "Saetta McKennie",
+      "wins": {
+        "@": [
+          12
+        ]
+      }
+    },
+    {
+      "owner": "Corvine",
+      "teamName": "Aggi Glaud",
+      "wins": {
+        "@": [
+          11
+        ]
+      }
+    },
+    {
+      "owner": "goldenhot@hotmail.it",
+      "teamName": "Goldenteam",
+      "wins": {
+        "@": [
+          10
+        ]
+      }
+    },
+    {
+      "owner": "federicomartelloni@gmail.com",
+      "teamName": "5.5.5. Longobarda",
+      "wins": {
+        "@": [
+          9
+        ]
+      }
+    },
+    {
+      "owner": "al.forbicioni@gmail.com",
+      "teamName": "AS Tronzi",
+      "wins": {
+        "@": [
+          8
+        ]
+      }
+    },
+    {
+      "owner": "graziottimarco@gmail.com",
+      "teamName": "F.C. Bullicamense",
+      "wins": {
+        "@": [
+          7
+        ]
+      }
+    },
+    {
+      "owner": "alessandro.rapiti44@gmail.com",
+      "teamName": "Soze Heaven",
+      "wins": {
+        "@": [
+          6
+        ]
+      }
+    },
+    {
+      "owner": "crostafabio87@gmail.com",
+      "teamName": "Los Scandalos",
+      "wins": {
+        "@": [
+          5
+        ]
+      }
+    }
+  ],
+  "allTimeRankings": [
+    {
+      "name": "Cavoni United",
+      "owner": "fiani.alessandro@gmail.com",
+      "point": 5871,
+      "victories": 108,
+      "draws": 75,
+      "defeats": 127,
+      "goal": 462,
+      "sufferedGoal": 505,
+      "valuePoint": 22018,
+      "sufferedValuePoint": 22325,
+      "plusMoney": 3825,
+      "money": 0,
+      "valueAssets": 3825
+    },
+    {
+      "name": "Poor Anus",
+      "owner": "m.forbicioni@hotmail.it",
+      "point": 5741.5,
+      "victories": 114,
+      "draws": 106,
+      "defeats": 128,
+      "goal": 534,
+      "sufferedGoal": 561,
+      "valuePoint": 23755,
+      "sufferedValuePoint": 23981,
+      "plusMoney": 4353,
+      "money": 0,
+      "valueAssets": 4353
+    },
+    {
+      "name": "FDC Scarsenal¹³",
+      "owner": "theos.lumia@hotmail.it",
+      "point": 6034.5,
+      "victories": 136,
+      "draws": 100,
+      "defeats": 112,
+      "goal": 538,
+      "sufferedGoal": 504,
+      "valuePoint": 24145.5,
+      "sufferedValuePoint": 23483,
+      "plusMoney": 4202,
+      "money": 0,
+      "valueAssets": 4202
+    },
+    {
+      "name": "Saetta McTominay",
+      "owner": "nicosia.andrea99@gmail.com",
+      "point": 5651.5,
+      "victories": 55,
+      "draws": 18,
+      "defeats": 26,
+      "goal": 265,
+      "sufferedGoal": 216,
+      "valuePoint": 7779,
+      "sufferedValuePoint": 7535.5,
+      "plusMoney": 1973,
+      "money": 0,
+      "valueAssets": 1973
+    },
+    {
+      "name": "A.S.D. Carpi",
+      "owner": "carpinelli.lorenzo@libero.it",
+      "point": 2892,
+      "victories": 16,
+      "draws": 8,
+      "defeats": 10,
+      "goal": 107,
+      "sufferedGoal": 93,
+      "valuePoint": 2780,
+      "sufferedValuePoint": 2701,
+      "plusMoney": 814,
+      "money": 0,
+      "valueAssets": 814
+    },
+    {
+      "name": "AS Tronzi",
+      "owner": "al.forbicioni@gmail.com",
+      "point": 5888,
+      "victories": 125,
+      "draws": 106,
+      "defeats": 117,
+      "goal": 552,
+      "sufferedGoal": 535,
+      "valuePoint": 23960,
+      "sufferedValuePoint": 23757.5,
+      "plusMoney": 4365,
+      "money": 0,
+      "valueAssets": 4365
+    },
+    {
+      "name": "Longobarda 5 5 5",
+      "owner": "federicomartelloni@gmail.com",
+      "point": 6086.5,
+      "victories": 146,
+      "draws": 107,
+      "defeats": 96,
+      "goal": 610,
+      "sufferedGoal": 509,
+      "valuePoint": 24599,
+      "sufferedValuePoint": 23789,
+      "plusMoney": 4577,
+      "money": 0,
+      "valueAssets": 4577
+    },
+    {
+      "name": " Real Disaster ",
+      "owner": "baghiniluca@gmail.com",
+      "point": 5910,
+      "victories": 113,
+      "draws": 102,
+      "defeats": 134,
+      "goal": 546,
+      "sufferedGoal": 558,
+      "valuePoint": 23860,
+      "sufferedValuePoint": 24382.5,
+      "plusMoney": 4404,
+      "money": 0,
+      "valueAssets": 4404
+    },
+    {
+      "name": "A.C. Ofeca",
+      "owner": "lorenzo.catarcia@gmail.com",
+      "point": 5826.5,
+      "victories": 114,
+      "draws": 99,
+      "defeats": 134,
+      "goal": 541,
+      "sufferedGoal": 575,
+      "valuePoint": 23920,
+      "sufferedValuePoint": 24129.5,
+      "plusMoney": 4430,
+      "money": 0,
+      "valueAssets": 4430
+    },
+    {
+      "name": "Deportivo la Scalogna",
+      "owner": "daniele.fetoni@hotmail.it",
+      "point": 5940.5,
+      "victories": 132,
+      "draws": 106,
+      "defeats": 111,
+      "goal": 568,
+      "sufferedGoal": 533,
+      "valuePoint": 23965,
+      "sufferedValuePoint": 24107.5,
+      "plusMoney": 4439,
+      "money": 0,
+      "valueAssets": 4439
+    },
+    {
+      "name": "Rooney tunes",
+      "owner": "filippo.bossi.01@gmail.com",
+      "point": 5592,
+      "victories": 51,
+      "draws": 38,
+      "defeats": 47,
+      "goal": 289,
+      "sufferedGoal": 281,
+      "valuePoint": 10210,
+      "sufferedValuePoint": 10187.5,
+      "plusMoney": 2288,
+      "money": 0,
+      "valueAssets": 2288
+    },
+    {
+      "name": "Oliver team",
+      "owner": "alessiooliverio@gmail.com",
+      "point": 5588.5,
+      "victories": 61,
+      "draws": 38,
+      "defeats": 69,
+      "goal": 307,
+      "sufferedGoal": 304,
+      "valuePoint": 12351.5,
+      "sufferedValuePoint": 12324,
+      "plusMoney": 2447,
+      "money": 0,
+      "valueAssets": 2447
+    },
+    {
+      "name": "The Valent 111",
+      "owner": "Snail84muz@hotmail.com",
+      "point": 5342.5,
+      "victories": 34,
+      "draws": 24,
+      "defeats": 41,
+      "goal": 207,
+      "sufferedGoal": 242,
+      "valuePoint": 7469.5,
+      "sufferedValuePoint": 7650,
+      "plusMoney": 1761,
+      "money": 0,
+      "valueAssets": 1761
+    },
+    {
+      "name": "Ombronese",
+      "owner": "christian.lucaccioni@outlook.it",
+      "point": 5926,
+      "victories": 120,
+      "draws": 106,
+      "defeats": 122,
+      "goal": 535,
+      "sufferedGoal": 542,
+      "valuePoint": 23575.5,
+      "sufferedValuePoint": 24150.5,
+      "plusMoney": 4301,
+      "money": 0,
+      "valueAssets": 4301
+    },
+    {
+      "name": "Real Fiordini",
+      "owner": "joria87@hotmail.it",
+      "point": 5346,
+      "victories": 48,
+      "draws": 57,
+      "defeats": 63,
+      "goal": 288,
+      "sufferedGoal": 321,
+      "valuePoint": 12221,
+      "sufferedValuePoint": 12421,
+      "plusMoney": 2403,
+      "money": 0,
+      "valueAssets": 2403
+    },
+    {
+      "name": "F.C. Bullicamense",
+      "owner": "graziottimarco@gmail.com",
+      "point": 5748.5,
+      "victories": 115,
+      "draws": 81,
+      "defeats": 114,
+      "goal": 507,
+      "sufferedGoal": 497,
+      "valuePoint": 22406,
+      "sufferedValuePoint": 22306,
+      "plusMoney": 4026,
+      "money": 0,
+      "valueAssets": 4026
+    },
+    {
+      "name": "M4d0nn4m41474",
+      "owner": "peruginialessandro@hotmail.it",
+      "point": 5544.5,
+      "victories": 51,
+      "draws": 30,
+      "defeats": 55,
+      "goal": 269,
+      "sufferedGoal": 277,
+      "valuePoint": 10150.5,
+      "sufferedValuePoint": 10190,
+      "plusMoney": 2176,
+      "money": 0,
+      "valueAssets": 2176
+    },
+    {
+      "name": "Los Scandalos",
+      "owner": "crostafabio87@gmail.com",
+      "point": 5886,
+      "victories": 131,
+      "draws": 102,
+      "defeats": 115,
+      "goal": 547,
+      "sufferedGoal": 520,
+      "valuePoint": 24110,
+      "sufferedValuePoint": 23707.5,
+      "plusMoney": 4295,
+      "money": 0,
+      "valueAssets": 4295
+    },
+    {
+      "name": "Goldenteam",
+      "owner": "goldenhot@hotmail.it",
+      "point": 5783.5,
+      "victories": 121,
+      "draws": 94,
+      "defeats": 133,
+      "goal": 521,
+      "sufferedGoal": 523,
+      "valuePoint": 23906,
+      "sufferedValuePoint": 23552,
+      "plusMoney": 4174,
+      "money": 0,
+      "valueAssets": 4174
+    },
+    {
+      "name": "Soze Hell",
+      "owner": "alessandro.rapiti44@gmail.com",
+      "point": 5792.5,
+      "victories": 132,
+      "draws": 109,
+      "defeats": 107,
+      "goal": 595,
+      "sufferedGoal": 552,
+      "valuePoint": 24341.5,
+      "sufferedValuePoint": 23934,
+      "plusMoney": 4631,
+      "money": 0,
+      "valueAssets": 4631
+    },
+    {
+      "name": "Real Bucarozza",
+      "owner": "luca.morleschi@outlook.it",
+      "point": 2617,
+      "victories": 30,
+      "draws": 24,
+      "defeats": 48,
+      "goal": 144,
+      "sufferedGoal": 184,
+      "valuePoint": 7196.5,
+      "sufferedValuePoint": 7485.5,
+      "plusMoney": 1272,
+      "money": 0,
+      "valueAssets": 1272
+    },
+    {
+      "name": "Aggi Glaud",
+      "owner": "Corvine",
+      "point": 63,
+      "victories": 17,
+      "draws": 12,
+      "defeats": 8,
+      "goal": 51,
+      "sufferedGoal": 36,
+      "valuePoint": 2617.5,
+      "sufferedValuePoint": 2515.5,
+      "plusMoney": 363,
+      "money": 0,
+      "valueAssets": 363
+    },
+    {
+      "name": "Bayern Monco",
+      "owner": "panagiac",
+      "point": 347,
+      "victories": 89,
+      "draws": 80,
+      "defeats": 80,
+      "goal": 319,
+      "sufferedGoal": 317,
+      "valuePoint": 16310.5,
+      "sufferedValuePoint": 16430,
+      "plusMoney": 2546,
+      "money": 0,
+      "valueAssets": 2546
+    },
+    {
+      "name": "Partizan Degrado",
+      "owner": "e.lisei@vetrya.com",
+      "point": 84,
+      "victories": 20,
+      "draws": 24,
+      "defeats": 27,
+      "goal": 83,
+      "sufferedGoal": 96,
+      "valuePoint": 4924,
+      "sufferedValuePoint": 5056,
+      "plusMoney": 703,
+      "money": 0,
+      "valueAssets": 703
+    },
+    {
+      "name": "BreakingBad Team",
+      "owner": "valerio86",
+      "point": 41,
+      "victories": 10,
+      "draws": 11,
+      "defeats": 12,
+      "goal": 40,
+      "sufferedGoal": 51,
+      "valuePoint": 2304,
+      "sufferedValuePoint": 2333.5,
+      "plusMoney": 353,
+      "money": 0,
+      "valueAssets": 353
+    },
+    {
+      "name": "Chessea",
+      "owner": "Andrea",
+      "point": 245,
+      "victories": 67,
+      "draws": 44,
+      "defeats": 63,
+      "goal": 256,
+      "sufferedGoal": 240,
+      "valuePoint": 12269,
+      "sufferedValuePoint": 12259,
+      "plusMoney": 2000,
+      "money": 0,
+      "valueAssets": 2000
+    },
+    {
+      "name": "Herta Mpone",
+      "owner": "lucamar88",
+      "point": 265,
+      "victories": 66,
+      "draws": 67,
+      "defeats": 79,
+      "goal": 222,
+      "sufferedGoal": 265,
+      "valuePoint": 13134.5,
+      "sufferedValuePoint": 13891,
+      "plusMoney": 1905,
+      "money": 0,
+      "valueAssets": 1905
+    },
+    {
+      "name": "herta Vernello",
+      "owner": "emanuele",
+      "point": 240,
+      "victories": 59,
+      "draws": 63,
+      "defeats": 58,
+      "goal": 206,
+      "sufferedGoal": 199,
+      "valuePoint": 11190,
+      "sufferedValuePoint": 11604,
+      "plusMoney": 1627,
+      "money": 0,
+      "valueAssets": 1627
+    },
+    {
+      "name": "Real Bucarozza",
+      "owner": "Eloreden",
+      "point": 201,
+      "victories": 50,
+      "draws": 51,
+      "defeats": 78,
+      "goal": 178,
+      "sufferedGoal": 229,
+      "valuePoint": 11198,
+      "sufferedValuePoint": 11402.5,
+      "plusMoney": 1577,
+      "money": 0,
+      "valueAssets": 1577
+    },
+    {
+      "name": "Corchiadoli United",
+      "owner": "Barzi",
+      "point": 224,
+      "victories": 52,
+      "draws": 68,
+      "defeats": 60,
+      "goal": 184,
+      "sufferedGoal": 189,
+      "valuePoint": 11300,
+      "sufferedValuePoint": 11085,
+      "plusMoney": 1487,
+      "money": 0,
+      "valueAssets": 1487
+    },
+    {
+      "name": "Tigers Reloaded",
+      "owner": "Frank Sinatra",
+      "point": 124,
+      "victories": 26,
+      "draws": 46,
+      "defeats": 37,
+      "goal": 85,
+      "sufferedGoal": 109,
+      "valuePoint": 6442,
+      "sufferedValuePoint": 6077.5,
+      "plusMoney": 752,
+      "money": 0,
+      "valueAssets": 752
+    },
+    {
+      "name": "notNaVi",
+      "owner": "GjRud",
+      "point": 44,
+      "victories": 6,
+      "draws": 26,
+      "defeats": 6,
+      "goal": 9,
+      "sufferedGoal": 10,
+      "valuePoint": 1338.5,
+      "sufferedValuePoint": 1401,
+      "plusMoney": 75,
+      "money": 0,
+      "valueAssets": 75
+    },
+    {
+      "name": "FC Bho - Return",
+      "owner": "danielec",
+      "point": 55,
+      "victories": 13,
+      "draws": 16,
+      "defeats": 9,
+      "goal": 26,
+      "sufferedGoal": 15,
+      "valuePoint": 1600,
+      "sufferedValuePoint": 1401.5,
+      "plusMoney": 175,
+      "money": 0,
+      "valueAssets": 175
+    },
+    {
+      "name": "Le carogne",
+      "owner": "alan",
+      "point": 43,
+      "victories": 7,
+      "draws": 22,
+      "defeats": 9,
+      "goal": 12,
+      "sufferedGoal": 15,
+      "valuePoint": 1545.5,
+      "sufferedValuePoint": 1337,
+      "plusMoney": 105,
+      "money": 0,
+      "valueAssets": 105
+    }
+  ]
+}

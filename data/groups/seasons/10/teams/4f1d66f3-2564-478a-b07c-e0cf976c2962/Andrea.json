@@ -1,0 +1,227 @@
+{
+  "version": 3,
+  "name": "Chessea",
+  "owner": "Andrea",
+  "additionalOwners": [],
+  "players": [
+    {
+      "playerKey": "meret",
+      "price": 80,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "ospina",
+      "price": 11,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "sportiello",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "cuadrado",
+      "price": 83,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "yoshida",
+      "price": 6,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "alexsandro",
+      "price": 26,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "bereszynski",
+      "price": 4,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "ferrer",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "marusic",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "bajrami",
+      "price": 40,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "bonaventura",
+      "price": 17,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "brozovic",
+      "price": 30,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "rovella",
+      "price": 3,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "arthur",
+      "price": 6,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "bennacer",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "deulofeu",
+      "price": 25,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "rafaelleao",
+      "price": 171,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "vlahovic",
+      "price": 211,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "boga",
+      "price": 35,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "chiesa",
+      "price": 165,
+      "revenue": 0,
+      "status": 1,
+      "position": 11
+    },
+    {
+      "playerKey": "tourea",
+      "price": 1,
+      "revenue": 0,
+      "status": 1,
+      "position": 11
+    },
+    {
+      "playerKey": "molinaro",
+      "price": 1,
+      "revenue": 0,
+      "status": 2,
+      "position": 11
+    },
+    {
+      "playerKey": "casale",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "zima",
+      "price": 1,
+      "revenue": 0,
+      "status": 2,
+      "position": 11
+    },
+    {
+      "playerKey": "rodrigobecao",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "tameze",
+      "price": 50,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "hendersonl",
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "nzola",
+      "price": 1,
+      "revenue": 0,
+      "status": 2,
+      "position": 11
+    },
+    {
+      "playerKey": "beto",
+      "price": 260,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "playerKey": "johnsen",
+      "price": 1,
+      "revenue": 0,
+      "status": 2,
+      "position": 11
+    },
+    {
+      "playerKey": "brekalo",
+      "price": 30,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    }
+  ],
+  "moneyFromRank": 0,
+  "lastUpdate": null
+}
