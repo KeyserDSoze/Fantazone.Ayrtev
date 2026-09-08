@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "group": {
+    "name": "Fantacalcio"
+  },
+  "leagues": {
+    "07ef9475-ba67-4e33-98b3-af4e764a5fc8": {
+      "name": "Serie A"
+    },
+    "f9254666-8bf0-4704-84fb-34161731aada": {
+      "name": "Premier League"
+    },
+    "0a8cc559-b101-4ce4-be95-a8ea45073b83": {
+      "name": "Champions League"
+    },
+    "d707bfb4-16d5-48c2-80cb-e97c0a4fc659": {
+      "name": "Super League"
+    }
+  }
+}
