@@ -647,7 +647,7 @@
             "typeSettings": null,
             "startingMoney": 1000,
             "delayedDay": 2,
-            "cancelledDay": 0,
+            "cancelledDay": 1,
             "pointForFirstGoal": 66,
             "pointForNextGoal": 6,
             "pointForOwnGoal": 6,
@@ -1230,7 +1230,7 @@
             "typeSettings": null,
             "startingMoney": 1000,
             "delayedDay": 2,
-            "cancelledDay": 0,
+            "cancelledDay": 1,
             "pointForFirstGoal": 66,
             "pointForNextGoal": 6,
             "pointForOwnGoal": 6,
@@ -1836,8 +1836,8 @@
         }
       ],
       "basketsId": [
-        "4f1d66f3-2564-478a-b07c-e0cf976c2962",
-        "a644de86-fd26-4c40-afb4-3ff9a672a342"
+        "a644de86-fd26-4c40-afb4-3ff9a672a342",
+        "4f1d66f3-2564-478a-b07c-e0cf976c2962"
       ]
     },
     {
@@ -3228,7 +3228,7 @@
               "additionalOwners": []
             },
             {
-              "name": "Soze Hell",
+              "name": "Soze Heaven",
               "owner": "alessandro.rapiti44@gmail.com",
               "additionalOwners": []
             },
