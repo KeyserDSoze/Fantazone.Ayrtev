@@ -1,11 +1,15 @@
 # Managed by Fantazone. Local edits to this file are overwritten by runtime upgrades.
-# group-runtime-version: 8
+# group-runtime-version: 9
 name: Fantazone group maintenance
 
 on:
   push:
     paths:
       - 'manifest.json'
+      - 'config/group.json'
+      - 'settings.json'
+      - 'fantazone.json'
+      - '.github/workflows/fantazone-group.yml'
       - 'data/groups/seasons/*/teams/*/*.json'
       - 'data/groups/seasons/*/markets/*/commands/*.json'
       - 'data/groups/seasons/*/auctions/*/outcomes/*.json'
@@ -138,4 +142,34 @@ jobs:
           done
 
           echo "Unable to persist Fantazone data after 3 attempts" >&2
+          exit 1
+
+      - name: Refresh compact offline snapshot
+        working-directory: group
+        shell: bash
+        run: |
+          git config user.name "fantazone-actions[bot]"
+          git config user.email "fantazone-actions[bot]@users.noreply.github.com"
+
+          for attempt in 1 2 3; do
+            echo "Refreshing compact offline snapshot (attempt $attempt/3)"
+            git fetch origin "$GITHUB_REF_NAME"
+            git reset --hard "origin/$GITHUB_REF_NAME"
+            node ../engine/scripts/build-group-offline-pack.mjs "$PWD"
+
+            if [ -z "$(git status --porcelain -- .fantazone/offline/group-snapshot.json.gz)" ]; then
+              echo "Offline snapshot already current"
+              exit 0
+            fi
+
+            git add -- .fantazone/offline/group-snapshot.json.gz
+            git commit -m "offline: refresh group snapshot"
+            if git push origin "HEAD:$GITHUB_REF_NAME"; then
+              exit 0
+            fi
+
+            echo "Group branch moved while publishing the offline snapshot; retrying"
+          done
+
+          echo "Unable to publish the compact offline snapshot after 3 attempts" >&2
           exit 1
