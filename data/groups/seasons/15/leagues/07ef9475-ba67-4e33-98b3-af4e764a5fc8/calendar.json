@@ -1,0 +1,1923 @@
+{
+  "year": 15,
+  "rounds": {
+    "@": [
+      {
+        "serieADay": 3,
+        "number": 1,
+        "games": [
+          {
+            "id": "cc765752-ba09-4008-849a-d50cb6c5213c",
+            "number": 1,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": {
+              "home": {
+                "value": 0,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 0,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": true,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "5ec0ff2c-4347-4574-8049-cf71c579f186",
+            "number": 2,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": {
+              "home": {
+                "value": 0,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 0,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": true,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "d7e70d38-b849-46ac-b3eb-a8346522ceab",
+            "number": 3,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": {
+              "home": {
+                "value": 0,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 0,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": true,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "d40f6084-c705-4c7c-9ed8-e8c79abe9135",
+            "number": 4,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": {
+              "home": {
+                "value": 0,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 0,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": true,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          },
+          {
+            "id": "743b02d5-24d0-46ab-9fc4-fe7074296778",
+            "number": 5,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": {
+              "home": {
+                "value": 0,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 0,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": true,
+              "homeGoals": 0,
+              "awayGoals": 0
+            }
+          }
+        ]
+      },
+      {
+        "serieADay": 4,
+        "number": 2,
+        "games": [
+          {
+            "id": "83869d36-0389-4332-a0ed-248001a629b5",
+            "number": 1,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "1cde80fa-77a3-464e-9451-46704a91ae2b",
+            "number": 2,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "50dd8939-2722-40a9-be4e-7952f6cc9656",
+            "number": 3,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "ac34bb75-7a96-446d-afb3-aead20cc693d",
+            "number": 4,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "36bd5cab-342d-4f89-9640-eb1ec812cabe",
+            "number": 5,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 5,
+        "number": 3,
+        "games": [
+          {
+            "id": "8eb4ef2f-a7ab-43af-9529-430ec65df6a1",
+            "number": 1,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "180b644c-3146-4b20-8c94-e0791802929f",
+            "number": 2,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "5789b153-ad11-41bd-bc2b-bbe3d68f32d7",
+            "number": 3,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "09cda1f9-1065-450b-8493-b856ab6bee89",
+            "number": 4,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "1186191d-7111-4c02-affd-352c9e0d1e34",
+            "number": 5,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 6,
+        "number": 4,
+        "games": [
+          {
+            "id": "ab6d37f4-9a12-42b2-8905-5adc24349a6a",
+            "number": 1,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "0fa1290c-d611-4506-ba5a-cdb3b6fe42ae",
+            "number": 2,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "6f79d1a9-12ef-471f-bfcb-616417a3f91b",
+            "number": 3,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "a16b7608-e1d0-4ff6-9c97-8ecd1a5dbdd6",
+            "number": 4,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          },
+          {
+            "id": "b5c7e2ce-f2f1-4bad-9a50-6de6dc567e22",
+            "number": 5,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 7,
+        "number": 5,
+        "games": [
+          {
+            "id": "28d91b8b-3509-4984-8b24-7a04e141e699",
+            "number": 1,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          },
+          {
+            "id": "2f868902-9f97-4491-a4ee-8ec88ace53f8",
+            "number": 2,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "23a544c2-577c-4fd4-9496-30c4288574dd",
+            "number": 3,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "050cff4b-e43b-4921-b476-33b72b224546",
+            "number": 4,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "27a36c23-ed13-42c3-867b-620144713080",
+            "number": 5,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 8,
+        "number": 6,
+        "games": [
+          {
+            "id": "dc8d562a-2f62-4a53-ba82-6aa9e52ff7ab",
+            "number": 1,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "b997f546-06ca-4f49-b47b-c3dc226672d9",
+            "number": 2,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          },
+          {
+            "id": "0e47f8be-0d5f-4a73-bc38-b7735a048149",
+            "number": 3,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "7d105a3d-8369-4bb1-b9ce-fe18f6e164c6",
+            "number": 4,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "76594246-e094-43a8-89b8-d49c9a922168",
+            "number": 5,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 9,
+        "number": 7,
+        "games": [
+          {
+            "id": "06b36be1-3ec8-4e3e-8fb0-a9f22e36fffd",
+            "number": 1,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "40f264fd-9620-4ef0-b9df-a15665e93b22",
+            "number": 2,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "1b48d561-53ae-451b-85b3-7857920cf073",
+            "number": 3,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "86b06602-acf3-46fb-9ca0-2001c0bee014",
+            "number": 4,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "ea9dee07-5477-4dd9-b50e-4a8ac056a41b",
+            "number": 5,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 10,
+        "number": 8,
+        "games": [
+          {
+            "id": "d1a36571-46e8-4b33-bed1-6d98ccb8afd3",
+            "number": 1,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "c6a628dc-fccf-428b-8f18-5699d4384400",
+            "number": 2,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "fc030f10-d144-4186-be67-0d2d4213eb3d",
+            "number": 3,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "ab891022-537a-46d5-86ac-f5101aa7a85f",
+            "number": 4,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "339c5473-b97a-4313-a1f8-2214293d94e4",
+            "number": 5,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 11,
+        "number": 9,
+        "games": [
+          {
+            "id": "29241f14-c42b-4c05-bbd5-989770884a39",
+            "number": 1,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "5301dfd2-cbd4-474c-a80d-61527b286bca",
+            "number": 2,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "349a38fc-71d4-4dc9-a7ad-4b7749534bed",
+            "number": 3,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "907c0db9-af3e-4cc7-9a8d-65a37f9c9f50",
+            "number": 4,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "cf3ce49d-807e-47bb-ba60-4cf8f589a319",
+            "number": 5,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 12,
+        "number": 10,
+        "games": [
+          {
+            "id": "083efbb3-15db-48ff-8bfd-6c45532a6f4b",
+            "number": 1,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "4e2b114e-6a21-45a8-8653-49c4d578b9cd",
+            "number": 2,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "bf368df7-9f46-40ea-9203-bc7a15aeee4f",
+            "number": 3,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "e2e0a176-8520-4c03-9e81-4431f293641b",
+            "number": 4,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "21d81a43-d640-4b2e-9c97-809417134df3",
+            "number": 5,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 13,
+        "number": 11,
+        "games": [
+          {
+            "id": "7d4b7b29-8cf4-4f2e-a0e0-cab3bd462aa1",
+            "number": 1,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "98f79e2f-9923-4500-b99e-957e52ddfec2",
+            "number": 2,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "3e9b08c1-be87-4ddc-8c2b-37272146a8e7",
+            "number": 3,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "74a47377-b5e7-4541-9fa9-d7ca38407882",
+            "number": 4,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "480105bf-f60c-4d3e-ab45-671cbc330320",
+            "number": 5,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 14,
+        "number": 12,
+        "games": [
+          {
+            "id": "d72d7c9a-e331-429d-8f43-2a38e87d76fd",
+            "number": 1,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "f1fd5707-d502-48ce-93d3-887e82047a1e",
+            "number": 2,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "48ca78ef-df74-4a1d-a907-3ac8483a0b3e",
+            "number": 3,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "c6563734-3484-4925-9e6a-c261a85c7f31",
+            "number": 4,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "cbeda1f3-76aa-4e15-9e91-f6dc59bd0860",
+            "number": 5,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 15,
+        "number": 13,
+        "games": [
+          {
+            "id": "c09bb2a1-0fa6-43d9-9888-49b6027fe70e",
+            "number": 1,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "53f89fe2-2f62-4e45-80c7-fa4b67fed53b",
+            "number": 2,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "8d1ab7af-6355-411a-a1f4-c7ee37df2ff6",
+            "number": 3,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "92c6cf22-0ff7-41e0-a22f-c8737a2d736b",
+            "number": 4,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "a04bbd14-2ba4-4d6e-a52d-9c69ff70c40c",
+            "number": 5,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 16,
+        "number": 14,
+        "games": [
+          {
+            "id": "8a6ecde5-f150-4026-b04a-c82927aa4dbd",
+            "number": 1,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "61d3c972-7141-44fa-bc8a-8349dad54058",
+            "number": 2,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "f422971e-f7ba-4ec6-b002-f841ec5e8839",
+            "number": 3,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "5ed77b26-0ee5-4898-b159-bcd680388581",
+            "number": 4,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "08cc26d2-43c7-4b6c-bb8d-1fc36651bd4c",
+            "number": 5,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 17,
+        "number": 15,
+        "games": [
+          {
+            "id": "9e3e486d-9c8d-4828-a919-7e9fb788d1fb",
+            "number": 1,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "c0028815-730f-44fe-93f8-79f50d1ca36e",
+            "number": 2,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "3aaeb585-88e8-4dbd-bc85-e891978f7737",
+            "number": 3,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "1cb9367f-b1d9-49e7-b0f4-b23899aa1cda",
+            "number": 4,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "8288e91a-3485-434c-9a84-fd8a59f52721",
+            "number": 5,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 18,
+        "number": 16,
+        "games": [
+          {
+            "id": "ee331a19-67c0-4340-bd9e-ff93c7bee7e6",
+            "number": 1,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "4dc64dbc-5a7e-4fb1-8774-2d5cb9d140fb",
+            "number": 2,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "d2c5cd2f-5a0a-4016-95d6-6801acc9c091",
+            "number": 3,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "4e2a4881-cb18-42aa-9bff-436e20fbd78d",
+            "number": 4,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          },
+          {
+            "id": "1515f99a-8678-4d06-af4f-15ad57bc6267",
+            "number": 5,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 19,
+        "number": 17,
+        "games": [
+          {
+            "id": "8f1379e0-992b-4331-9c65-15fafac3b38a",
+            "number": 1,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "d4ac3c3b-250c-4fcd-a351-d1b3985d977d",
+            "number": 2,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "73b72c92-0a5c-4941-84a3-4d3ddf993438",
+            "number": 3,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "aec0ef2f-16af-49d9-b1b2-ca9a04c58c94",
+            "number": 4,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "91f54208-1214-42cf-bb7a-3076cfc2ebfd",
+            "number": 5,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 20,
+        "number": 18,
+        "games": [
+          {
+            "id": "32e4be69-acab-4dac-983c-b7a73d72cf60",
+            "number": 1,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "65231ede-a0f8-4e3d-b0bb-87e5535c5000",
+            "number": 2,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          },
+          {
+            "id": "921e4182-5f1e-492e-8b64-3d06e0a35a12",
+            "number": 3,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "7c94e20e-daee-4b86-87fb-559d5c366a80",
+            "number": 4,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "4d6043ae-e658-4502-a94c-b090d9c37feb",
+            "number": 5,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 21,
+        "number": 19,
+        "games": [
+          {
+            "id": "22abd4bd-8153-4891-bedf-6e3649408bc8",
+            "number": 1,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "161733a4-7509-4a75-acef-21e455aa9ddc",
+            "number": 2,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "4dc3cd1d-4e39-4a68-8a48-9cb3bd495e37",
+            "number": 3,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "9f53cd4f-517a-4af8-b956-6b4c5ffbfc08",
+            "number": 4,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "e3f53d53-9240-4b8b-837b-dd443793eea8",
+            "number": 5,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 22,
+        "number": 20,
+        "games": [
+          {
+            "id": "0eb96bce-945d-4a06-8afc-949cf3a134d9",
+            "number": 1,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "2bfc4ea7-2bc0-4551-9141-5d294483812b",
+            "number": 2,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "e8de9c3f-7da9-4144-94d7-007e483e9ef8",
+            "number": 3,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "9f29158b-4650-4818-bbbd-003e9288e958",
+            "number": 4,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "ae609fbd-1a9d-49e5-83bf-0899203a6021",
+            "number": 5,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 23,
+        "number": 21,
+        "games": [
+          {
+            "id": "8ab67018-e862-4aef-9c37-33290d9e7077",
+            "number": 1,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "bc44d3b8-f18b-47fb-b470-e5b7125a7777",
+            "number": 2,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "e8b9e750-747f-4eb9-8550-1b655a47a5e6",
+            "number": 3,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "759d1773-0d85-4c42-a12f-4707bf3792fd",
+            "number": 4,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "896e3f5a-d1e3-453b-9135-17f77d989c9c",
+            "number": 5,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 24,
+        "number": 22,
+        "games": [
+          {
+            "id": "539aee0b-bc4c-4343-b576-85ce4c6cc2e8",
+            "number": 1,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "57dfea01-9213-4d45-a77f-7931d05cd0b1",
+            "number": 2,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "fbc9be5f-29eb-4b86-b686-1f4739c41931",
+            "number": 3,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "df7a9060-f5d6-4496-a643-013a99c71f5c",
+            "number": 4,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          },
+          {
+            "id": "5823b76d-6846-4850-81bf-60309016c72a",
+            "number": 5,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 25,
+        "number": 23,
+        "games": [
+          {
+            "id": "c6804949-c68d-4844-8f11-e6f6cf260ff3",
+            "number": 1,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          },
+          {
+            "id": "c418ea96-701d-469b-8d5e-73cec1d9718d",
+            "number": 2,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "1c6eb4f8-395d-440b-9140-881fcd3e8578",
+            "number": 3,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "544e6117-ecff-4157-acd2-27c94c206b37",
+            "number": 4,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "c81d26e9-a3ac-4285-a3d3-40749630f75e",
+            "number": 5,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 26,
+        "number": 24,
+        "games": [
+          {
+            "id": "15546ebf-b9eb-466a-a963-ea75bd7f1637",
+            "number": 1,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "051c9f7e-b778-4bf3-a6cf-2255e64b77e8",
+            "number": 2,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          },
+          {
+            "id": "05ccb07b-b988-4355-8323-621a2290aaaa",
+            "number": 3,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "94011311-d959-44f6-a62f-3e6400937b86",
+            "number": 4,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "1cbb4fa4-26b3-4e6e-98a2-264ee9c781be",
+            "number": 5,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 27,
+        "number": 25,
+        "games": [
+          {
+            "id": "2cee5bbd-d631-4f5c-9514-c89a72f353da",
+            "number": 1,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "0523a8cd-c8e6-4b7f-b85b-1b0633d5ff46",
+            "number": 2,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "2736983c-f569-4b92-a384-f3292514e3b6",
+            "number": 3,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "4d4a4356-a174-4e61-90a5-e5a8a2ef684b",
+            "number": 4,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "bb5d5ec9-971f-4dc0-a222-65af09c57580",
+            "number": 5,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 28,
+        "number": 26,
+        "games": [
+          {
+            "id": "63c640cb-f851-468c-9aa5-e3dcde19667b",
+            "number": 1,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "efcce5fc-fb54-4c2a-94cd-4907304bcd12",
+            "number": 2,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "3d99bfb1-d6ed-449b-b26c-dfca56c514e8",
+            "number": 3,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "a306f085-17ee-4483-8ec3-edadd0e753d8",
+            "number": 4,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "84ff75b6-c751-4299-9ea6-d5f79358a0c0",
+            "number": 5,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 29,
+        "number": 27,
+        "games": [
+          {
+            "id": "451a3d5f-ee25-4acb-95cd-112bcaa515d6",
+            "number": 1,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "e5e47dac-7492-4745-86ee-940e82bf5dd3",
+            "number": 2,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "20cb7eb6-c3c1-4973-87fd-a3e75a84b92f",
+            "number": 3,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "d41485be-be6a-4f1b-b48f-6eb83d1b68cb",
+            "number": 4,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "fc5ec3e8-389a-4ce3-8af8-cc28c4c9491b",
+            "number": 5,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 30,
+        "number": 28,
+        "games": [
+          {
+            "id": "78b61d8d-be3f-4fd8-b997-9a81806c47d5",
+            "number": 1,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "8ae53f66-9cec-4e89-aab8-d957478a1ccb",
+            "number": 2,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "4488e1e0-fe4e-4b35-b0dd-3525f64393d3",
+            "number": 3,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "bc7fffec-3d3e-41b9-b060-feb646e5cac9",
+            "number": 4,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "7caf13ec-7ee0-4ffc-bb1b-2f743b0e0e85",
+            "number": 5,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 31,
+        "number": 29,
+        "games": [
+          {
+            "id": "723c812a-8730-462b-83fb-7aec83e20337",
+            "number": 1,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "6042bc49-f108-4a21-b633-f6aa37c87d5e",
+            "number": 2,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          },
+          {
+            "id": "971049b7-66a7-4791-bf97-2238f5360e10",
+            "number": 3,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "26c7cf16-d2a2-4a37-bb8e-0fdcba069b27",
+            "number": 4,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "45e4362c-2e73-49c2-9d16-d192dcac923f",
+            "number": 5,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 32,
+        "number": 30,
+        "games": [
+          {
+            "id": "6587b036-a88b-41b9-a25a-fc404d40c2d4",
+            "number": 1,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "b0e2cb44-c4d4-487d-8fa9-459dd5036140",
+            "number": 2,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "534d4ff5-0f25-4188-8d2c-7b5be5dbaccb",
+            "number": 3,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "d2d34732-cf7e-4603-b7e5-fce63f1a0302",
+            "number": 4,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "b91c2d36-37e7-477b-8906-c3296f04256b",
+            "number": 5,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 33,
+        "number": 31,
+        "games": [
+          {
+            "id": "4a3b8e9f-9fee-483e-908a-0084b0dda0e4",
+            "number": 1,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "88f3ce47-7edb-45d7-84cc-3cd5670f9a34",
+            "number": 2,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "5b0c6227-6a6d-4e3a-a58f-e6e80c7f0eaa",
+            "number": 3,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "188d8cf1-abe0-4861-b981-a3ff90391d0b",
+            "number": 4,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "1ce05bb6-41d2-4086-8067-d806c49023fc",
+            "number": 5,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 34,
+        "number": 32,
+        "games": [
+          {
+            "id": "07a46196-f930-420e-ab3e-6d227e5abacb",
+            "number": 1,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "9c1062c5-2b37-4d09-be4e-5d55d7a621a7",
+            "number": 2,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "9eccd0d6-0cbe-414e-b109-55071e9fbfdd",
+            "number": 3,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "43c67eb7-5e5b-4c25-a710-a0c48cc4a510",
+            "number": 4,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "c05db7eb-a93b-45f7-b467-234d44b3f402",
+            "number": 5,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 35,
+        "number": 33,
+        "games": [
+          {
+            "id": "5ccaa8a2-7b0a-4749-b854-c22ba58ea593",
+            "number": 1,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "a42f5c88-b67d-42b3-924a-a86640543d2c",
+            "number": 2,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "7f012dab-4d8c-4f29-9e9a-e61e2def397a",
+            "number": 3,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "1f6c4056-3186-495e-bb40-a120027be1fe",
+            "number": 4,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "f8bacfec-d4b0-42f0-bbd7-51abd1794bc2",
+            "number": 5,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 36,
+        "number": 34,
+        "games": [
+          {
+            "id": "caca596d-d442-4a49-b559-31221a8a1eaa",
+            "number": 1,
+            "home": "Ombronese",
+            "homeOwner": "christian.lucaccioni@outlook.it",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "2589cb59-47ce-4dd6-b6cc-2473f9ade000",
+            "number": 2,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "4843ab8d-9559-4fb9-9a21-58424624d4e8",
+            "number": 3,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          },
+          {
+            "id": "21db2ab6-92af-424c-8482-1509ceaf28d1",
+            "number": 4,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          },
+          {
+            "id": "d6041d72-ffb9-4523-b439-7eaab7ffff35",
+            "number": 5,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": " Real Disaster ",
+            "awayOwner": "baghiniluca@gmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 37,
+        "number": 35,
+        "games": [
+          {
+            "id": "ca697ff7-7c69-4cef-993a-8d521b3ebe0c",
+            "number": 1,
+            "home": "FDC Scarsenal¹⁴",
+            "homeOwner": "theos.lumia@hotmail.it",
+            "away": "Poor Anus",
+            "awayOwner": "m.forbicioni@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "dfcc24de-59cf-451c-b84e-e0376d1f4876",
+            "number": 2,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "f08519c3-d823-4356-90cf-fd0c3f4cb0d9",
+            "number": 3,
+            "home": "Deportivo la Scalogna",
+            "homeOwner": "daniele.fetoni@hotmail.it",
+            "away": "AS Tronzi",
+            "awayOwner": "al.forbicioni@gmail.com",
+            "result": null
+          },
+          {
+            "id": "ef15d600-92fd-4087-ad6d-67b310e5bc8c",
+            "number": 4,
+            "home": "Oliver team",
+            "homeOwner": "alessiooliverio@gmail.com",
+            "away": "Goldenteam",
+            "awayOwner": "goldenhot@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "a95f183f-b88c-42b0-b618-6dd592120019",
+            "number": 5,
+            "home": "Soze Heaven",
+            "homeOwner": "alessandro.rapiti44@gmail.com",
+            "away": "The Valent 111",
+            "awayOwner": "Snail84muz@hotmail.com",
+            "result": null
+          }
+        ]
+      },
+      {
+        "serieADay": 38,
+        "number": 36,
+        "games": [
+          {
+            "id": "567d397f-47fd-48aa-918f-a845c0a48148",
+            "number": 1,
+            "home": "The Valent 111",
+            "homeOwner": "Snail84muz@hotmail.com",
+            "away": "FDC Scarsenal¹⁴",
+            "awayOwner": "theos.lumia@hotmail.it",
+            "result": null
+          },
+          {
+            "id": "76257131-e535-4461-be4a-7b746cd4ce17",
+            "number": 2,
+            "home": " Real Disaster ",
+            "homeOwner": "baghiniluca@gmail.com",
+            "away": "Soze Heaven",
+            "awayOwner": "alessandro.rapiti44@gmail.com",
+            "result": null
+          },
+          {
+            "id": "9dc76226-471f-4211-850c-7c69d83e0cf2",
+            "number": 3,
+            "home": "AS Tronzi",
+            "homeOwner": "al.forbicioni@gmail.com",
+            "away": "Oliver team",
+            "awayOwner": "alessiooliverio@gmail.com",
+            "result": null
+          },
+          {
+            "id": "05fa9243-2efe-46a5-b19c-f419bdbb0b8e",
+            "number": 4,
+            "home": "Goldenteam",
+            "homeOwner": "goldenhot@hotmail.it",
+            "away": "Ombronese",
+            "awayOwner": "christian.lucaccioni@outlook.it",
+            "result": null
+          },
+          {
+            "id": "20d3a6e3-4c8e-4e96-8a49-0801517a9949",
+            "number": 5,
+            "home": "Poor Anus",
+            "homeOwner": "m.forbicioni@hotmail.it",
+            "away": "Deportivo la Scalogna",
+            "awayOwner": "daniele.fetoni@hotmail.it",
+            "result": null
+          }
+        ]
+      }
+    ]
+  }
+}
