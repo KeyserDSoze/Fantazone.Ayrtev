@@ -340,6 +340,20 @@
       "revenue": 0,
       "status": 0,
       "position": 11
+    },
+    {
+      "name": "Romero D.",
+      "team": {
+        "name": "Parma",
+        "abbreviation": "par"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 54,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
     }
   ]
 }
