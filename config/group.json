@@ -2442,6 +2442,11 @@
       "username": "carpinelli.lorenzo@libero.it",
       "email": "carpinelli.lorenzo@libero.it",
       "role": 3
+    },
+    {
+      "username": "silver.vt@gmail.com",
+      "email": "silver.vt@gmail.com",
+      "role": 1
     }
   ],
   "baskets": [
@@ -3265,7 +3270,9 @@
             {
               "name": "FDC Scarsenal¹⁴",
               "owner": "theos.lumia@hotmail.it",
-              "additionalOwners": []
+              "additionalOwners": [
+                "silver.vt@gmail.com"
+              ]
             },
             {
               "name": "The Valent 111",
