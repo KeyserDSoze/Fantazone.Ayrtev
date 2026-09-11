@@ -2,6 +2,10 @@
   "name": "Soze Heaven",
   "owner": "alessandro.rapiti44@gmail.com",
   "additionalOwners": [],
+  "moneyFromRank": 0,
+  "openingCompetitionPrize": 0,
+  "formationChanges": 0,
+  "lastUpdate": "0001-01-01T00:00:00",
   "players": [
     {
       "name": "Provedel",
@@ -29,7 +33,7 @@
       "price": 67,
       "revenue": 0,
       "status": 0,
-      "position": 4
+      "position": 11
     },
     {
       "name": "Gollini",
@@ -43,7 +47,7 @@
       "price": 3,
       "revenue": 0,
       "status": 0,
-      "position": 0
+      "position": 11
     },
     {
       "name": "Bellanova",
@@ -71,7 +75,7 @@
       "price": 5,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Floriani Mussolini",
@@ -85,7 +89,7 @@
       "price": 8,
       "revenue": 0,
       "status": 0,
-      "position": 5
+      "position": 11
     },
     {
       "name": "Abankwah",
@@ -127,7 +131,7 @@
       "price": 32,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Kamara H.",
@@ -141,7 +145,7 @@
       "price": 16,
       "revenue": 0,
       "status": 0,
-      "position": 6
+      "position": 11
     },
     {
       "name": "Mancini",
@@ -155,7 +159,7 @@
       "price": 33,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Cissè A.",
@@ -169,7 +173,7 @@
       "price": 83,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "McTominay",
@@ -211,7 +215,7 @@
       "price": 14,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Odgaard",
@@ -225,7 +229,7 @@
       "price": 7,
       "revenue": 0,
       "status": 0,
-      "position": 8
+      "position": 11
     },
     {
       "name": "Romano",
@@ -239,7 +243,7 @@
       "price": 21,
       "revenue": 0,
       "status": 0,
-      "position": 7
+      "position": 11
     },
     {
       "name": "Vergara",
@@ -253,7 +257,7 @@
       "price": 41,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Rowe",
@@ -267,7 +271,7 @@
       "price": 30,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Pinamonti",
@@ -295,7 +299,7 @@
       "price": 3,
       "revenue": 0,
       "status": 0,
-      "position": 10
+      "position": 11
     },
     {
       "name": "Esposito F.P.",
@@ -309,7 +313,7 @@
       "price": 130,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Osmajic",
@@ -323,7 +327,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Diao",
@@ -337,7 +341,7 @@
       "price": 131,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Stulic",
@@ -351,9 +355,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 9
+      "position": 11
     }
-  ],
-  "moneyFromRank": 0,
-  "lastUpdate": "2026-09-11T14:26:41.2643915Z"
+  ]
 }

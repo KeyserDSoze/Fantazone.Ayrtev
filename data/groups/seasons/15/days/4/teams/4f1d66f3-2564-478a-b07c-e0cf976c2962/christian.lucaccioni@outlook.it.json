@@ -2,6 +2,10 @@
   "name": "Ombronese",
   "owner": "christian.lucaccioni@outlook.it",
   "additionalOwners": [],
+  "moneyFromRank": 0,
+  "openingCompetitionPrize": 0,
+  "formationChanges": 0,
+  "lastUpdate": "0001-01-01T00:00:00",
   "players": [
     {
       "name": "Muric",
@@ -15,7 +19,7 @@
       "price": 3,
       "revenue": 0,
       "status": 0,
-      "position": 0
+      "position": 11
     },
     {
       "name": "Meret",
@@ -43,7 +47,7 @@
       "price": 30,
       "revenue": 0,
       "status": 0,
-      "position": 4
+      "position": 11
     },
     {
       "name": "Gallo",
@@ -57,7 +61,7 @@
       "price": 3,
       "revenue": 0,
       "status": 0,
-      "position": 5
+      "position": 11
     },
     {
       "name": "Kolasinac",
@@ -71,7 +75,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 6
+      "position": 11
     },
     {
       "name": "Bastoni",
@@ -85,7 +89,7 @@
       "price": 38,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Haps",
@@ -113,13 +117,13 @@
       "price": 8,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Mangas",
       "team": {
         "name": "Monza",
-        "abbreviation": "mon"
+        "abbreviation": "monz"
       },
       "role": 1,
       "isActive": true,
@@ -127,7 +131,7 @@
       "price": 3,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Kabasele",
@@ -169,7 +173,7 @@
       "price": 6,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Zielinski",
@@ -183,7 +187,7 @@
       "price": 25,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Sarr P.",
@@ -211,7 +215,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 7
+      "position": 11
     },
     {
       "name": "Goncalves P.",
@@ -225,7 +229,7 @@
       "price": 37,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Baturina",
@@ -239,7 +243,7 @@
       "price": 109,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Lobotka",
@@ -253,7 +257,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 8
+      "position": 11
     },
     {
       "name": "Casadei",
@@ -281,7 +285,7 @@
       "price": 40,
       "revenue": 0,
       "status": 0,
-      "position": 9
+      "position": 11
     },
     {
       "name": "Ghedjemis",
@@ -309,7 +313,7 @@
       "price": 148,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Adams A.",
@@ -323,7 +327,7 @@
       "price": 3,
       "revenue": 0,
       "status": 0,
-      "position": 10
+      "position": 11
     },
     {
       "name": "Thuram",
@@ -337,7 +341,7 @@
       "price": 259,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Raimondo",
@@ -351,9 +355,7 @@
       "price": 121,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     }
-  ],
-  "moneyFromRank": 0,
-  "lastUpdate": "2026-09-11T11:22:52.6986811Z"
+  ]
 }

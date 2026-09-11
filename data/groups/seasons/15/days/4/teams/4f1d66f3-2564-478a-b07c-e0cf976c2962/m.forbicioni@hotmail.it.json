@@ -2,6 +2,10 @@
   "name": "Poor Anus",
   "owner": "m.forbicioni@hotmail.it",
   "additionalOwners": [],
+  "moneyFromRank": 0,
+  "openingCompetitionPrize": 0,
+  "formationChanges": 0,
+  "lastUpdate": "0001-01-01T00:00:00",
   "players": [
     {
       "name": "Butez",
@@ -15,7 +19,7 @@
       "price": 76,
       "revenue": 0,
       "status": 0,
-      "position": 0
+      "position": 11
     },
     {
       "name": "Vigorito",
@@ -43,7 +47,7 @@
       "price": 20,
       "revenue": 0,
       "status": 0,
-      "position": 4
+      "position": 11
     },
     {
       "name": "Britschgi",
@@ -71,7 +75,7 @@
       "price": 3,
       "revenue": 0,
       "status": 0,
-      "position": 5
+      "position": 11
     },
     {
       "name": "Bartesaghi",
@@ -99,7 +103,7 @@
       "price": 20,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Provstgaard",
@@ -113,7 +117,7 @@
       "price": 6,
       "revenue": 0,
       "status": 0,
-      "position": 6
+      "position": 11
     },
     {
       "name": "Bernasconi",
@@ -127,7 +131,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Dragusin",
@@ -155,7 +159,7 @@
       "price": 10,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Zaniolo",
@@ -183,7 +187,7 @@
       "price": 46,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Ekkelenkamp",
@@ -197,7 +201,7 @@
       "price": 43,
       "revenue": 0,
       "status": 0,
-      "position": 7
+      "position": 11
     },
     {
       "name": "Politano",
@@ -211,7 +215,7 @@
       "price": 51,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Pulisic",
@@ -239,7 +243,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 8
+      "position": 11
     },
     {
       "name": "Zambo Anguissa",
@@ -253,13 +257,13 @@
       "price": 14,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Colpani",
       "team": {
         "name": "Monza",
-        "abbreviation": "mon"
+        "abbreviation": "monz"
       },
       "role": 2,
       "isActive": true,
@@ -267,7 +271,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Berardi",
@@ -281,7 +285,7 @@
       "price": 119,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Castro S.",
@@ -295,7 +299,7 @@
       "price": 65,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Tourè E.",
@@ -309,7 +313,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 10
+      "position": 11
     },
     {
       "name": "Ramos G.",
@@ -323,13 +327,13 @@
       "price": 253,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Varela G.",
       "team": {
         "name": "Monza",
-        "abbreviation": "mon"
+        "abbreviation": "monz"
       },
       "role": 3,
       "isActive": true,
@@ -351,9 +355,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 9
+      "position": 11
     }
-  ],
-  "moneyFromRank": 0,
-  "lastUpdate": "2026-09-11T02:07:06.9974848Z"
+  ]
 }

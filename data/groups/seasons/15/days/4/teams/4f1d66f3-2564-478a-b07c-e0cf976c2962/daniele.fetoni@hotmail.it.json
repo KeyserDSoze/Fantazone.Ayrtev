@@ -2,6 +2,10 @@
   "name": "Deportivo la Scalogna",
   "owner": "daniele.fetoni@hotmail.it",
   "additionalOwners": [],
+  "moneyFromRank": 0,
+  "openingCompetitionPrize": 0,
+  "formationChanges": 0,
+  "lastUpdate": "0001-01-01T00:00:00",
   "players": [
     {
       "name": "Corvi",
@@ -29,7 +33,7 @@
       "price": 13,
       "revenue": 0,
       "status": 0,
-      "position": 4
+      "position": 11
     },
     {
       "name": "Falcone",
@@ -43,10 +47,10 @@
       "price": 7,
       "revenue": 0,
       "status": 0,
-      "position": 0
+      "position": 11
     },
     {
-      "name": "NDicka",
+      "name": "N'Dicka",
       "team": {
         "name": "Roma",
         "abbreviation": "rom"
@@ -57,7 +61,7 @@
       "price": 30,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Monterisi",
@@ -91,7 +95,7 @@
       "name": "Birindelli",
       "team": {
         "name": "Monza",
-        "abbreviation": "mon"
+        "abbreviation": "monz"
       },
       "role": 1,
       "isActive": true,
@@ -99,7 +103,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 5
+      "position": 11
     },
     {
       "name": "Akanji",
@@ -113,7 +117,7 @@
       "price": 22,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Theate",
@@ -141,7 +145,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 6
+      "position": 11
     },
     {
       "name": "Kalulu",
@@ -155,7 +159,7 @@
       "price": 13,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Samardzic",
@@ -169,7 +173,7 @@
       "price": 32,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Mastantuono",
@@ -183,7 +187,7 @@
       "price": 25,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Rabiot",
@@ -197,7 +201,7 @@
       "price": 65,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Fazzini",
@@ -239,7 +243,7 @@
       "price": 67,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Pisilli",
@@ -253,7 +257,7 @@
       "price": 2,
       "revenue": 0,
       "status": 0,
-      "position": 7
+      "position": 11
     },
     {
       "name": "Schmid",
@@ -267,7 +271,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 8
+      "position": 11
     },
     {
       "name": "Scamacca",
@@ -281,7 +285,7 @@
       "price": 119,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Soulè",
@@ -295,7 +299,7 @@
       "price": 85,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Krstovic",
@@ -309,7 +313,7 @@
       "price": 80,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Davis K.",
@@ -323,7 +327,7 @@
       "price": 201,
       "revenue": 0,
       "status": 0,
-      "position": 9
+      "position": 11
     },
     {
       "name": "Dovbyk",
@@ -351,9 +355,7 @@
       "price": 46,
       "revenue": 0,
       "status": 0,
-      "position": 10
+      "position": 11
     }
-  ],
-  "moneyFromRank": 0,
-  "lastUpdate": "2026-09-11T11:18:48.5621931Z"
+  ]
 }

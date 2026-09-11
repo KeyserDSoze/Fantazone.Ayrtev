@@ -2,6 +2,10 @@
   "name": " Real Disaster ",
   "owner": "baghiniluca@gmail.com",
   "additionalOwners": [],
+  "moneyFromRank": 0,
+  "openingCompetitionPrize": 0,
+  "formationChanges": 0,
+  "lastUpdate": "0001-01-01T00:00:00",
   "players": [
     {
       "name": "Maignan",
@@ -15,7 +19,7 @@
       "price": 85,
       "revenue": 0,
       "status": 0,
-      "position": 0
+      "position": 11
     },
     {
       "name": "Skorupski",
@@ -43,7 +47,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 4
+      "position": 11
     },
     {
       "name": "Lucumì",
@@ -57,7 +61,7 @@
       "price": 22,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Doekhi",
@@ -71,7 +75,7 @@
       "price": 26,
       "revenue": 0,
       "status": 0,
-      "position": 5
+      "position": 11
     },
     {
       "name": "Bisseck",
@@ -99,7 +103,7 @@
       "price": 13,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Balerdi",
@@ -127,7 +131,7 @@
       "price": 13,
       "revenue": 0,
       "status": 0,
-      "position": 6
+      "position": 11
     },
     {
       "name": "Kossounou",
@@ -155,7 +159,7 @@
       "price": 22,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Baldanzi",
@@ -169,7 +173,7 @@
       "price": 26,
       "revenue": 0,
       "status": 0,
-      "position": 7
+      "position": 11
     },
     {
       "name": "Conceicao",
@@ -183,7 +187,7 @@
       "price": 101,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Calhanoglu",
@@ -197,7 +201,7 @@
       "price": 144,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Fagioli",
@@ -211,7 +215,7 @@
       "price": 2,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Gudmundsson A.",
@@ -225,7 +229,7 @@
       "price": 73,
       "revenue": 0,
       "status": 0,
-      "position": 8
+      "position": 11
     },
     {
       "name": "Modric",
@@ -239,7 +243,7 @@
       "price": 50,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Thorstvedt",
@@ -273,7 +277,7 @@
       "name": "Mota",
       "team": {
         "name": "Monza",
-        "abbreviation": "mon"
+        "abbreviation": "monz"
       },
       "role": 3,
       "isActive": true,
@@ -281,7 +285,7 @@
       "price": 2,
       "revenue": 0,
       "status": 0,
-      "position": 10
+      "position": 11
     },
     {
       "name": "Kean",
@@ -295,7 +299,7 @@
       "price": 246,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Bowie",
@@ -309,7 +313,7 @@
       "price": 29,
       "revenue": 0,
       "status": 0,
-      "position": 9
+      "position": 11
     },
     {
       "name": "Yeboah J.",
@@ -323,7 +327,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Maldini",
@@ -337,10 +341,10 @@
       "price": 58,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
-      "name": "NDri",
+      "name": "N'Dri",
       "team": {
         "name": "Lecce",
         "abbreviation": "lec"
@@ -353,7 +357,5 @@
       "status": 0,
       "position": 11
     }
-  ],
-  "moneyFromRank": 0,
-  "lastUpdate": "2026-09-11T14:19:37.3012036Z"
+  ]
 }
