@@ -65,32 +65,17 @@
       {
         "name": "Oliver team",
         "owner": "alessiooliverio@gmail.com",
-        "point": 1,
-        "victories": 0,
-        "draws": 1,
+        "point": 3,
+        "victories": 1,
+        "draws": 0,
         "defeats": 0,
         "goal": 2,
-        "sufferedGoal": 2,
+        "sufferedGoal": 1,
         "valuePoint": 72,
-        "sufferedValuePoint": 72,
-        "plusMoney": 16,
+        "sufferedValuePoint": 67.5,
+        "plusMoney": 13,
         "money": 0,
-        "valueAssets": 16
-      },
-      {
-        "name": " Real Disaster ",
-        "owner": "baghiniluca@gmail.com",
-        "point": 1,
-        "victories": 0,
-        "draws": 1,
-        "defeats": 0,
-        "goal": 2,
-        "sufferedGoal": 2,
-        "valuePoint": 72,
-        "sufferedValuePoint": 72,
-        "plusMoney": 16,
-        "money": 0,
-        "valueAssets": 16
+        "valueAssets": 13
       },
       {
         "name": "Soze Heaven",
@@ -136,6 +121,21 @@
         "plusMoney": 19,
         "money": 0,
         "valueAssets": 19
+      },
+      {
+        "name": " Real Disaster ",
+        "owner": "baghiniluca@gmail.com",
+        "point": 0,
+        "victories": 0,
+        "draws": 0,
+        "defeats": 1,
+        "goal": 1,
+        "sufferedGoal": 2,
+        "valuePoint": 67.5,
+        "sufferedValuePoint": 72,
+        "plusMoney": 11,
+        "money": 0,
+        "valueAssets": 11
       },
       {
         "name": "Poor Anus",

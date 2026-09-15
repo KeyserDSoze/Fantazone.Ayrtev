@@ -55,12 +55,12 @@
         "draws": 0,
         "defeats": 0,
         "goal": 2,
-        "sufferedGoal": 1,
+        "sufferedGoal": 0,
         "valuePoint": 72,
-        "sufferedValuePoint": 68,
-        "plusMoney": 13,
+        "sufferedValuePoint": 62,
+        "plusMoney": 10,
         "money": 0,
-        "valueAssets": 13
+        "valueAssets": 10
       },
       {
         "name": "A.C. Ofeca",
@@ -123,21 +123,6 @@
         "valueAssets": 22
       },
       {
-        "name": "Los Scandalos",
-        "owner": "crostafabio87@gmail.com",
-        "point": 0,
-        "victories": 0,
-        "draws": 0,
-        "defeats": 1,
-        "goal": 1,
-        "sufferedGoal": 2,
-        "valuePoint": 68,
-        "sufferedValuePoint": 72,
-        "plusMoney": 11,
-        "money": 0,
-        "valueAssets": 11
-      },
-      {
         "name": "F.C. Bullicamense",
         "owner": "graziottimarco@gmail.com",
         "point": 0,
@@ -151,6 +136,21 @@
         "plusMoney": 11,
         "money": 0,
         "valueAssets": 11
+      },
+      {
+        "name": "Los Scandalos",
+        "owner": "crostafabio87@gmail.com",
+        "point": 0,
+        "victories": 0,
+        "draws": 0,
+        "defeats": 1,
+        "goal": 0,
+        "sufferedGoal": 2,
+        "valuePoint": 62,
+        "sufferedValuePoint": 72,
+        "plusMoney": 6,
+        "money": 0,
+        "valueAssets": 6
       }
     ]
   }
