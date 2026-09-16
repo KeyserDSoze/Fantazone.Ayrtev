@@ -4,6 +4,10 @@
   "additionalOwners": [
     "silver.vt@gmail.com"
   ],
+  "moneyFromRank": 0,
+  "openingCompetitionPrize": 0,
+  "formationChanges": 0,
+  "lastUpdate": "0001-01-01T00:00:00",
   "players": [
     {
       "name": "Carnesecchi",
@@ -17,7 +21,7 @@
       "price": 81,
       "revenue": 0,
       "status": 0,
-      "position": 0
+      "position": 11
     },
     {
       "name": "Sportiello",
@@ -31,7 +35,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 4
+      "position": 11
     },
     {
       "name": "Palmisani",
@@ -87,7 +91,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 6
+      "position": 11
     },
     {
       "name": "Spinazzola",
@@ -101,7 +105,7 @@
       "price": 19,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Chalobah T.",
@@ -115,7 +119,7 @@
       "price": 25,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Lulli",
@@ -143,7 +147,7 @@
       "price": 42,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
       "name": "Scalvini",
@@ -157,7 +161,7 @@
       "price": 27,
       "revenue": 0,
       "status": 0,
-      "position": 5
+      "position": 11
     },
     {
       "name": "Calò",
@@ -171,7 +175,7 @@
       "price": 37,
       "revenue": 0,
       "status": 0,
-      "position": 8
+      "position": 11
     },
     {
       "name": "Bernardeschi",
@@ -199,7 +203,7 @@
       "price": 28,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Barella",
@@ -213,7 +217,7 @@
       "price": 61,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Njie",
@@ -241,7 +245,7 @@
       "price": 33,
       "revenue": 0,
       "status": 0,
-      "position": 7
+      "position": 11
     },
     {
       "name": "Mora",
@@ -255,7 +259,7 @@
       "price": 86,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Vlasic",
@@ -269,7 +273,7 @@
       "price": 60,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 11
     },
     {
       "name": "Kvernadze",
@@ -283,7 +287,7 @@
       "price": 40,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Laurientè",
@@ -297,7 +301,7 @@
       "price": 94,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Yildiz",
@@ -325,7 +329,7 @@
       "price": 180,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 11
     },
     {
       "name": "Mendy P.",
@@ -339,7 +343,7 @@
       "price": 36,
       "revenue": 0,
       "status": 0,
-      "position": 10
+      "position": 11
     },
     {
       "name": "Beto",
@@ -353,9 +357,7 @@
       "price": 87,
       "revenue": 0,
       "status": 0,
-      "position": 9
+      "position": 11
     }
-  ],
-  "moneyFromRank": 0,
-  "lastUpdate": "2026-09-15T18:07:36.6928793Z"
+  ]
 }
