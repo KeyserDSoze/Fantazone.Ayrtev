@@ -15,7 +15,7 @@
       "price": 47,
       "revenue": 0,
       "status": 0,
-      "position": 4
+      "position": 0
     },
     {
       "name": "Milinkovic-Savic V.",
@@ -29,7 +29,7 @@
       "price": 20,
       "revenue": 0,
       "status": 0,
-      "position": 0
+      "position": 4
     },
     {
       "name": "Motta",
@@ -309,7 +309,7 @@
       "price": 150,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 10
     },
     {
       "name": "Cutrone",
@@ -337,7 +337,7 @@
       "price": 35,
       "revenue": 0,
       "status": 0,
-      "position": 10
+      "position": 3
     },
     {
       "name": "Giovane",
@@ -355,5 +355,5 @@
     }
   ],
   "moneyFromRank": 0,
-  "lastUpdate": "2026-09-14T23:03:20.5924752Z"
+  "lastUpdate": "2026-09-20T22:46:46.6874143Z"
 }

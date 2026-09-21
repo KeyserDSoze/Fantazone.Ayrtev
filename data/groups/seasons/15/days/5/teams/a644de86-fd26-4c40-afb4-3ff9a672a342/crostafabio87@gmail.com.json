@@ -15,7 +15,7 @@
       "price": 20,
       "revenue": 0,
       "status": 0,
-      "position": 11
+      "position": 0
     },
     {
       "name": "Carnesecchi",
@@ -29,7 +29,7 @@
       "price": 80,
       "revenue": 0,
       "status": 0,
-      "position": 0
+      "position": 4
     },
     {
       "name": "Sportiello",
@@ -43,7 +43,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 4
+      "position": 11
     },
     {
       "name": "Haps",
@@ -113,7 +113,7 @@
       "price": 12,
       "revenue": 0,
       "status": 0,
-      "position": 6
+      "position": 11
     },
     {
       "name": "Bastoni",
@@ -127,7 +127,7 @@
       "price": 54,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 5
     },
     {
       "name": "Bracaglia",
@@ -141,7 +141,7 @@
       "price": 14,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 6
     },
     {
       "name": "Doig",
@@ -155,7 +155,7 @@
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 5
+      "position": 1
     },
     {
       "name": "Bernardeschi",
@@ -183,7 +183,7 @@
       "price": 30,
       "revenue": 0,
       "status": 0,
-      "position": 7
+      "position": 2
     },
     {
       "name": "Cissè A.",
@@ -211,7 +211,7 @@
       "price": 10,
       "revenue": 0,
       "status": 0,
-      "position": 8
+      "position": 11
     },
     {
       "name": "Da Cunha",
@@ -239,7 +239,7 @@
       "price": 43,
       "revenue": 0,
       "status": 0,
-      "position": 2
+      "position": 7
     },
     {
       "name": "Karlstrom",
@@ -253,7 +253,7 @@
       "price": 5,
       "revenue": 0,
       "status": 0,
-      "position": 11
+      "position": 8
     },
     {
       "name": "Lobotka",
@@ -267,7 +267,7 @@
       "price": 2,
       "revenue": 0,
       "status": 0,
-      "position": 11
+      "position": 2
     },
     {
       "name": "Yeboah J.",
@@ -281,7 +281,7 @@
       "price": 53,
       "revenue": 0,
       "status": 0,
-      "position": 3
+      "position": 9
     },
     {
       "name": "Castro S.",
@@ -337,7 +337,7 @@
       "price": 32,
       "revenue": 0,
       "status": 0,
-      "position": 9
+      "position": 3
     },
     {
       "name": "Kevin Carlos",
@@ -355,5 +355,5 @@
     }
   ],
   "moneyFromRank": 0,
-  "lastUpdate": "2026-09-11T17:50:08.7994042Z"
+  "lastUpdate": "2026-09-20T23:20:11.7070082Z"
 }

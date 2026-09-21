@@ -1037,7 +1037,23 @@
             "homeOwner": "goldenhot@hotmail.it",
             "away": "F.C. Bullicamense",
             "awayOwner": "graziottimarco@gmail.com",
-            "result": null
+            "result": {
+              "home": {
+                "value": 90,
+                "defensiveBonus": true,
+                "goodPeople": true,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 77,
+                "defensiveBonus": true,
+                "goodPeople": true,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 5,
+              "awayGoals": 2
+            }
           },
           {
             "id": "d8b1e976-f3b6-4ecb-96df-350efa7351c0",
@@ -1046,7 +1062,23 @@
             "homeOwner": "daniele.fetoni@hotmail.it",
             "away": "Rooney tunes",
             "awayOwner": "filippo.bossi.01@gmail.com",
-            "result": null
+            "result": {
+              "home": {
+                "value": 81.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 90,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 5
+            }
           },
           {
             "id": "4168b5b2-e063-4660-8a3d-12ca531e1362",
@@ -1055,7 +1087,23 @@
             "homeOwner": "m.forbicioni@hotmail.it",
             "away": "FFC Scarsenal¹⁵",
             "awayOwner": "theos.lumia@hotmail.it",
-            "result": null
+            "result": {
+              "home": {
+                "value": 83.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 89,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 4
+            }
           },
           {
             "id": "db1d63d6-cead-4ebf-bbbf-8d76013326ee",
@@ -1064,7 +1112,23 @@
             "homeOwner": "joria87@hotmail.it",
             "away": "The Valent 111",
             "awayOwner": "Snail84muz@hotmail.com",
-            "result": null
+            "result": {
+              "home": {
+                "value": 77,
+                "defensiveBonus": true,
+                "goodPeople": true,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 60.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 0
+            }
           },
           {
             "id": "880a5d57-d9df-47da-9ad1-fb81ff8258c2",
@@ -1073,7 +1137,23 @@
             "homeOwner": "peruginialessandro@hotmail.it",
             "away": "Oliver team",
             "awayOwner": "alessiooliverio@gmail.com",
-            "result": null
+            "result": {
+              "home": {
+                "value": 85,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 93.5,
+                "defensiveBonus": true,
+                "goodPeople": true,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 5
+            }
           },
           {
             "id": "971d092b-a7c3-4c7b-bdc7-08de2c955a9c",
@@ -1082,7 +1162,23 @@
             "homeOwner": "alessandro.rapiti44@gmail.com",
             "away": "Los Scandalos",
             "awayOwner": "crostafabio87@gmail.com",
-            "result": null
+            "result": {
+              "home": {
+                "value": 79,
+                "defensiveBonus": true,
+                "goodPeople": true,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 73,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 2
+            }
           },
           {
             "id": "7d983ca6-5f0c-4110-82dc-1fa1402db06c",
@@ -1091,7 +1187,23 @@
             "homeOwner": "lorenzo.catarcia@gmail.com",
             "away": "A.S.D. Carpi",
             "awayOwner": "carpinelli.lorenzo@libero.it",
-            "result": null
+            "result": {
+              "home": {
+                "value": 80.5,
+                "defensiveBonus": false,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 87,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 4
+            }
           },
           {
             "id": "240dd0a9-a1fe-490e-983d-41e34c1fd6e3",
@@ -1100,7 +1212,23 @@
             "homeOwner": "nicosia.andrea99@gmail.com",
             "away": "Ombronese",
             "awayOwner": "christian.lucaccioni@outlook.it",
-            "result": null
+            "result": {
+              "home": {
+                "value": 76,
+                "defensiveBonus": false,
+                "goodPeople": true,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 74,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 2,
+              "awayGoals": 2
+            }
           },
           {
             "id": "b4694078-3f88-41a3-a316-5775c7dd4dcf",
@@ -1109,7 +1237,23 @@
             "homeOwner": "al.forbicioni@gmail.com",
             "away": "Longobarda 5 5 5",
             "awayOwner": "federicomartelloni@gmail.com",
-            "result": null
+            "result": {
+              "home": {
+                "value": 83.5,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 83.5,
+                "defensiveBonus": true,
+                "goodPeople": true,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 3,
+              "awayGoals": 3
+            }
           },
           {
             "id": "c3ef5061-74d6-49ee-86cf-03b98c473811",
@@ -1118,7 +1262,23 @@
             "homeOwner": "baghiniluca@gmail.com",
             "away": "Cavoni United",
             "awayOwner": "fiani.alessandro@gmail.com",
-            "result": null
+            "result": {
+              "home": {
+                "value": 85,
+                "defensiveBonus": true,
+                "goodPeople": false,
+                "ownGoal": false
+              },
+              "away": {
+                "value": 88,
+                "defensiveBonus": true,
+                "goodPeople": true,
+                "ownGoal": false
+              },
+              "isCancelled": false,
+              "homeGoals": 4,
+              "awayGoals": 4
+            }
           }
         ]
       },

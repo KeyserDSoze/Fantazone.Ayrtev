@@ -1,66 +1,66 @@
 {
-  "name": "A.C. Ofeca",
-  "owner": "lorenzo.catarcia@gmail.com",
+  "name": "The Valent 111",
+  "owner": "Snail84muz@hotmail.com",
   "additionalOwners": [],
   "players": [
     {
-      "name": "Maignan",
+      "name": "De Gea",
       "team": {
-        "name": "Milan",
-        "abbreviation": "mil"
+        "name": "Fiorentina",
+        "abbreviation": "fio"
       },
       "role": 0,
       "isActive": true,
       "visible": true,
-      "price": 94,
-      "revenue": 0,
-      "status": 0,
-      "position": 0
-    },
-    {
-      "name": "Terracciano",
-      "team": {
-        "name": "Milan",
-        "abbreviation": "mil"
-      },
-      "role": 0,
-      "isActive": true,
-      "visible": true,
-      "price": 1,
+      "price": 14,
       "revenue": 0,
       "status": 0,
       "position": 11
     },
     {
-      "name": "Torriani",
+      "name": "Bijlow",
       "team": {
-        "name": "Milan",
-        "abbreviation": "mil"
+        "name": "Genoa",
+        "abbreviation": "gen"
       },
       "role": 0,
       "isActive": true,
       "visible": true,
-      "price": 1,
+      "price": 7,
       "revenue": 0,
       "status": 0,
       "position": 4
     },
     {
-      "name": "Gatti",
+      "name": "Perri",
       "team": {
-        "name": "Juventus",
-        "abbreviation": "juv"
+        "name": "Torino",
+        "abbreviation": "tor"
       },
-      "role": 1,
+      "role": 0,
       "isActive": true,
       "visible": true,
       "price": 1,
       "revenue": 0,
       "status": 0,
-      "position": 11
+      "position": 0
     },
     {
-      "name": "Heggem",
+      "name": "Dodò",
+      "team": {
+        "name": "Fiorentina",
+        "abbreviation": "fio"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 7,
+      "revenue": 0,
+      "status": 0,
+      "position": 1
+    },
+    {
+      "name": "Miranda J.",
       "team": {
         "name": "Bologna",
         "abbreviation": "bol"
@@ -68,21 +68,7 @@
       "role": 1,
       "isActive": true,
       "visible": true,
-      "price": 8,
-      "revenue": 0,
-      "status": 0,
-      "position": 1
-    },
-    {
-      "name": "Scalvini",
-      "team": {
-        "name": "Atalanta",
-        "abbreviation": "ata"
-      },
-      "role": 1,
-      "isActive": true,
-      "visible": true,
-      "price": 40,
+      "price": 10,
       "revenue": 0,
       "status": 0,
       "position": 1
@@ -96,13 +82,13 @@
       "role": 1,
       "isActive": true,
       "visible": true,
-      "price": 15,
+      "price": 10,
       "revenue": 0,
       "status": 0,
       "position": 11
     },
     {
-      "name": "Tavares N.",
+      "name": "Marusic",
       "team": {
         "name": "Lazio",
         "abbreviation": "laz"
@@ -110,16 +96,44 @@
       "role": 1,
       "isActive": true,
       "visible": true,
-      "price": 28,
+      "price": 10,
       "revenue": 0,
       "status": 0,
-      "position": 1
+      "position": 11
     },
     {
-      "name": "Comuzzo",
+      "name": "Ramon",
       "team": {
-        "name": "Torino",
-        "abbreviation": "tor"
+        "name": "Como",
+        "abbreviation": "com"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 24,
+      "revenue": 0,
+      "status": 0,
+      "position": 5
+    },
+    {
+      "name": "Vasquez",
+      "team": {
+        "name": "Genoa",
+        "abbreviation": "gen"
+      },
+      "role": 1,
+      "isActive": true,
+      "visible": true,
+      "price": 8,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Kempf",
+      "team": {
+        "name": "Como",
+        "abbreviation": "com"
       },
       "role": 1,
       "isActive": true,
@@ -130,77 +144,119 @@
       "position": 6
     },
     {
-      "name": "Couto",
+      "name": "Spence",
       "team": {
-        "name": "Como",
-        "abbreviation": "com"
+        "name": "Inter",
+        "abbreviation": "int"
       },
       "role": 1,
       "isActive": true,
       "visible": true,
-      "price": 22,
+      "price": 16,
       "revenue": 0,
       "status": 0,
       "position": 1
     },
     {
-      "name": "Veiga D.",
+      "name": "McKennie",
       "team": {
-        "name": "Lecce",
-        "abbreviation": "lec"
-      },
-      "role": 1,
-      "isActive": true,
-      "visible": true,
-      "price": 1,
-      "revenue": 0,
-      "status": 0,
-      "position": 5
-    },
-    {
-      "name": "El Shaarawy",
-      "team": {
-        "name": "Genoa",
-        "abbreviation": "gen"
+        "name": "Juventus",
+        "abbreviation": "juv"
       },
       "role": 2,
       "isActive": true,
       "visible": true,
-      "price": 2,
-      "revenue": 0,
-      "status": 0,
-      "position": 11
-    },
-    {
-      "name": "Fini",
-      "team": {
-        "name": "Frosinone",
-        "abbreviation": "fro"
-      },
-      "role": 2,
-      "isActive": true,
-      "visible": true,
-      "price": 1,
-      "revenue": 0,
-      "status": 0,
-      "position": 11
-    },
-    {
-      "name": "Gudmundsson A.",
-      "team": {
-        "name": "Lazio",
-        "abbreviation": "laz"
-      },
-      "role": 2,
-      "isActive": true,
-      "visible": true,
-      "price": 75,
+      "price": 37,
       "revenue": 0,
       "status": 0,
       "position": 2
     },
     {
-      "name": "Paz N.",
+      "name": "Ederson D.S.",
+      "team": {
+        "name": "Atalanta",
+        "abbreviation": "ata"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 43,
+      "revenue": 0,
+      "status": 0,
+      "position": 8
+    },
+    {
+      "name": "Orsolini",
+      "team": {
+        "name": "Bologna",
+        "abbreviation": "bol"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 100,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Mandragora",
+      "team": {
+        "name": "Torino",
+        "abbreviation": "tor"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 4,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Cambiaghi",
+      "team": {
+        "name": "Bologna",
+        "abbreviation": "bol"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 2
+    },
+    {
+      "name": "Pierotti",
+      "team": {
+        "name": "Lecce",
+        "abbreviation": "lec"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 7,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Cacciamani",
+      "team": {
+        "name": "Torino",
+        "abbreviation": "tor"
+      },
+      "role": 2,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 7
+    },
+    {
+      "name": "Rodriguez Je.",
       "team": {
         "name": "Como",
         "abbreviation": "com"
@@ -208,142 +264,86 @@
       "role": 2,
       "isActive": true,
       "visible": true,
-      "price": 166,
-      "revenue": 0,
-      "status": 0,
-      "position": 2
-    },
-    {
-      "name": "Saelemaekers",
-      "team": {
-        "name": "Milan",
-        "abbreviation": "mil"
-      },
-      "role": 2,
-      "isActive": true,
-      "visible": true,
-      "price": 20,
-      "revenue": 0,
-      "status": 0,
-      "position": 8
-    },
-    {
-      "name": "Schmid",
-      "team": {
-        "name": "Frosinone",
-        "abbreviation": "fro"
-      },
-      "role": 2,
-      "isActive": true,
-      "visible": true,
-      "price": 2,
-      "revenue": 0,
-      "status": 0,
-      "position": 7
-    },
-    {
-      "name": "Vergara",
-      "team": {
-        "name": "Napoli",
-        "abbreviation": "nap"
-      },
-      "role": 2,
-      "isActive": true,
-      "visible": true,
-      "price": 3,
-      "revenue": 0,
-      "status": 0,
-      "position": 2
-    },
-    {
-      "name": "Alajbegovic",
-      "team": {
-        "name": "Juventus",
-        "abbreviation": "juv"
-      },
-      "role": 2,
-      "isActive": true,
-      "visible": true,
-      "price": 40,
-      "revenue": 0,
-      "status": 0,
-      "position": 2
-    },
-    {
-      "name": "Adams C.",
-      "team": {
-        "name": "Torino",
-        "abbreviation": "tor"
-      },
-      "role": 3,
-      "isActive": true,
-      "visible": true,
-      "price": 37,
+      "price": 1,
       "revenue": 0,
       "status": 0,
       "position": 11
     },
     {
-      "name": "Boga",
+      "name": "Malen",
       "team": {
-        "name": "Juventus",
-        "abbreviation": "juv"
+        "name": "Roma",
+        "abbreviation": "rom"
       },
       "role": 3,
       "isActive": true,
       "visible": true,
-      "price": 3,
-      "revenue": 0,
-      "status": 0,
-      "position": 11
-    },
-    {
-      "name": "Martinez L.",
-      "team": {
-        "name": "Inter",
-        "abbreviation": "int"
-      },
-      "role": 3,
-      "isActive": true,
-      "visible": true,
-      "price": 332,
-      "revenue": 0,
-      "status": 0,
-      "position": 3
-    },
-    {
-      "name": "Raimondo",
-      "team": {
-        "name": "Frosinone",
-        "abbreviation": "fro"
-      },
-      "role": 3,
-      "isActive": true,
-      "visible": true,
-      "price": 47,
+      "price": 512,
       "revenue": 0,
       "status": 0,
       "position": 9
     },
     {
-      "name": "Zapata D.",
+      "name": "Gnonto",
       "team": {
-        "name": "Torino",
-        "abbreviation": "tor"
+        "name": "Fiorentina",
+        "abbreviation": "fio"
       },
       "role": 3,
       "isActive": true,
       "visible": true,
-      "price": 2,
+      "price": 1,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Raspadori",
+      "team": {
+        "name": "Atalanta",
+        "abbreviation": "ata"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 1,
       "revenue": 0,
       "status": 0,
       "position": 10
     },
     {
-      "name": "Robinson J.",
+      "name": "Esposito Se.",
       "team": {
-        "name": "Monza",
-        "abbreviation": "mon"
+        "name": "Sassuolo",
+        "abbreviation": "sas"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 62,
+      "revenue": 0,
+      "status": 0,
+      "position": 3
+    },
+    {
+      "name": "Santos A.",
+      "team": {
+        "name": "Napoli",
+        "abbreviation": "nap"
+      },
+      "role": 3,
+      "isActive": true,
+      "visible": true,
+      "price": 27,
+      "revenue": 0,
+      "status": 0,
+      "position": 11
+    },
+    {
+      "name": "Geubbels",
+      "team": {
+        "name": "Lecce",
+        "abbreviation": "lec"
       },
       "role": 3,
       "isActive": true,
@@ -355,5 +355,5 @@
     }
   ],
   "moneyFromRank": 0,
-  "lastUpdate": "2026-09-16T14:11:32.3934597Z"
+  "lastUpdate": "2026-09-18T17:05:28.5551718Z"
 }
